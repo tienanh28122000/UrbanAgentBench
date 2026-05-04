@@ -1,0 +1,164 @@
+{
+  "sites": {
+    "19659_30151": {
+      "site_id": "19659_30151",
+      "lat": -33.82935678595979,
+      "lon": 151.2542724609375,
+      "ground_truth": {
+        "density_score": 7.29,
+        "green_ratio": 0.8,
+        "land_use": "Suburban Residential",
+        "carbon_emission": 448.7422790527344,
+        "infrastructure_counts": {
+          "Baseball Field": 0,
+          "Basketball Court": 1,
+          "Ground Track Field": 0,
+          "Roundabout": 0,
+          "Soccer Ball Field": 1,
+          "Stadium": 0,
+          "Storage Tank": 0,
+          "Swimming Pool": 0,
+          "Tennis Court": 1,
+          "Train Station": 0,
+          "Windmill": 0,
+          "Solar Panel": 0
+        },
+        "density_classification": "Dense",
+        "green_ratio_classification": "High"
+      },
+      "meta": {
+        "current_image": "19659_30151.png",
+        "has_temporal": true,
+        "past_image": "resources/Sydney_past/19659_30151_past.png"
+      }
+    },
+    "19648_30123": {
+      "site_id": "19648_30123",
+      "lat": -33.72890818387006,
+      "lon": 150.9466552734375,
+      "ground_truth": {
+        "density_score": 4.68,
+        "green_ratio": 0.62,
+        "land_use": "Natural/Wildland",
+        "carbon_emission": 699.7338511149088,
+        "infrastructure_counts": {
+          "Baseball Field": 0,
+          "Basketball Court": 0,
+          "Ground Track Field": 0,
+          "Roundabout": 2,
+          "Soccer Ball Field": 0,
+          "Stadium": 0,
+          "Storage Tank": 0,
+          "Swimming Pool": 0,
+          "Tennis Court": 0,
+          "Train Station": 0,
+          "Windmill": 0,
+          "Solar Panel": 0
+        },
+        "density_classification": "Moderate",
+        "green_ratio_classification": "Medium"
+      },
+      "meta": {
+        "current_image": "19648_30123.png",
+        "has_temporal": false,
+        "past_image": null
+      }
+    },
+    "19671_30144": {
+      "site_id": "19671_30144",
+      "lat": -33.93880262887597,
+      "lon": 151.1773681640625,
+      "ground_truth": {
+        "density_score": 1.91,
+        "green_ratio": 0.25,
+        "land_use": "Rural/Agricultural",
+        "carbon_emission": 495.525634765625,
+        "infrastructure_counts": {
+          "Baseball Field": 0,
+          "Basketball Court": 0,
+          "Ground Track Field": 0,
+          "Roundabout": 0,
+          "Soccer Ball Field": 0,
+          "Stadium": 0,
+          "Storage Tank": 0,
+          "Swimming Pool": 0,
+          "Tennis Court": 0,
+          "Train Station": 0,
+          "Windmill": 0,
+          "Solar Panel": 0
+        },
+        "density_classification": "Sparse",
+        "green_ratio_classification": "Low"
+      },
+      "meta": {
+        "current_image": "19671_30144.png",
+        "has_temporal": false,
+        "past_image": null
+      }
+    },
+    "19662_30145": {
+      "site_id": "19662_30145",
+      "lat": -33.85673140746145,
+      "lon": 151.1883544921875,
+      "ground_truth": {
+        "density_score": 7.76,
+        "green_ratio": 0.58,
+        "land_use": "High-Density Urban",
+        "carbon_emission": 852.7633514404297,
+        "infrastructure_counts": {
+          "Baseball Field": 0,
+          "Basketball Court": 0,
+          "Ground Track Field": 0,
+          "Roundabout": 0,
+          "Soccer Ball Field": 0,
+          "Stadium": 0,
+          "Storage Tank": 0,
+          "Swimming Pool": 3,
+          "Tennis Court": 0,
+          "Train Station": 0,
+          "Windmill": 0,
+          "Solar Panel": 0
+        },
+        "density_classification": "Dense",
+        "green_ratio_classification": "Medium"
+      },
+      "meta": {
+        "current_image": "19662_30145.png",
+        "has_temporal": false,
+        "past_image": null
+      }
+    },
+    "19677_30149": {
+      "site_id": "19677_30149",
+      "lat": -33.99347287305545,
+      "lon": 151.2322998046875,
+      "ground_truth": {
+        "density_score": 5.94,
+        "green_ratio": 0.12,
+        "land_use": "Industrial/Commercial",
+        "carbon_emission": 145.15683873494467,
+        "infrastructure_counts": {
+          "Baseball Field": 0,
+          "Basketball Court": 0,
+          "Ground Track Field": 0,
+          "Roundabout": 0,
+          "Soccer Ball Field": 0,
+          "Stadium": 0,
+          "Storage Tank": 0,
+          "Swimming Pool": 0,
+          "Tennis Court": 0,
+          "Train Station": 0,
+          "Windmill": 0,
+          "Solar Panel": 0
+        },
+        "density_classification": "Moderate",
+        "green_ratio_classification": "Low"
+      },
+      "meta": {
+        "current_image": "19677_30149.png",
+        "has_temporal": false,
+        "past_image": null
+      }
+    }
+  }
+}
