@@ -1,65 +1,52 @@
 {
   "sites": {
-    "19659_30151": {
-      "site_id": "19659_30151",
-      "lat": -33.82935678595979,
-      "lon": 151.2542724609375,
+    "19681_30127": {
+      "site_id": "19681_30127",
+      "lat": -34.0299001739122,
+      "lon": 150.9906005859375,
       "ground_truth": {
-        "density_score": 7.29,
-        "green_ratio": 0.8,
-        "land_use": "Suburban Residential",
-        "carbon_emission": 448.7422790527344,
+        "population_density": 0.6,
+        "land_use_categories": [
+          "landuse",
+          "natural"
+        ],
         "infrastructure_counts": {
-          "Baseball Field": 0,
-          "Basketball Court": 1,
-          "Ground Track Field": 0,
-          "Roundabout": 0,
-          "Soccer Ball Field": 1,
+          "Airport": 0,
           "Stadium": 0,
-          "Storage Tank": 0,
-          "Swimming Pool": 0,
-          "Tennis Court": 1,
-          "Train Station": 0,
-          "Windmill": 0,
-          "Solar Panel": 0
-        },
-        "density_classification": "Dense",
-        "green_ratio_classification": "High"
+          "Golf Field": 0,
+          "Harbor": 0,
+          "Ground Track Field": 1,
+          "Soccer Ball Field": 1,
+          "Train Station": 0
+        }
       },
       "meta": {
-        "current_image": "19659_30151.png",
-        "has_temporal": true,
-        "past_image": "resources/Sydney_past/19659_30151_past.png"
+        "current_image": "resources/Sydney/19681_30127.png",
+        "has_temporal": false,
+        "past_image": null
       }
     },
-    "19648_30123": {
-      "site_id": "19648_30123",
-      "lat": -33.72890818387006,
-      "lon": 150.9466552734375,
+    "19683_30146": {
+      "site_id": "19683_30146",
+      "lat": -34.048107962751715,
+      "lon": 151.1993408203125,
       "ground_truth": {
-        "density_score": 4.68,
-        "green_ratio": 0.62,
-        "land_use": "Natural/Wildland",
-        "carbon_emission": 699.7338511149088,
+        "population_density": 0.6,
+        "land_use_categories": [
+          "natural"
+        ],
         "infrastructure_counts": {
-          "Baseball Field": 0,
-          "Basketball Court": 0,
-          "Ground Track Field": 0,
-          "Roundabout": 2,
-          "Soccer Ball Field": 0,
+          "Airport": 0,
           "Stadium": 0,
-          "Storage Tank": 0,
-          "Swimming Pool": 0,
-          "Tennis Court": 0,
-          "Train Station": 0,
-          "Windmill": 0,
-          "Solar Panel": 0
-        },
-        "density_classification": "Moderate",
-        "green_ratio_classification": "Medium"
+          "Golf Field": 0,
+          "Harbor": 0,
+          "Ground Track Field": 0,
+          "Soccer Ball Field": 0,
+          "Train Station": 0
+        }
       },
       "meta": {
-        "current_image": "19648_30123.png",
+        "current_image": "resources/Sydney/19683_30146.png",
         "has_temporal": false,
         "past_image": null
       }
@@ -69,93 +56,73 @@
       "lat": -33.93880262887597,
       "lon": 151.1773681640625,
       "ground_truth": {
-        "density_score": 1.91,
-        "green_ratio": 0.25,
-        "land_use": "Rural/Agricultural",
-        "carbon_emission": 495.525634765625,
+        "population_density": 1.3,
+        "land_use_categories": [
+          "landuse"
+        ],
         "infrastructure_counts": {
-          "Baseball Field": 0,
-          "Basketball Court": 0,
-          "Ground Track Field": 0,
-          "Roundabout": 0,
-          "Soccer Ball Field": 0,
+          "Airport": 1,
           "Stadium": 0,
-          "Storage Tank": 0,
-          "Swimming Pool": 0,
-          "Tennis Court": 0,
-          "Train Station": 0,
-          "Windmill": 0,
-          "Solar Panel": 0
-        },
-        "density_classification": "Sparse",
-        "green_ratio_classification": "Low"
+          "Golf Field": 0,
+          "Harbor": 0,
+          "Ground Track Field": 0,
+          "Soccer Ball Field": 0,
+          "Train Station": 0
+        }
       },
       "meta": {
-        "current_image": "19671_30144.png",
+        "current_image": "resources/Sydney/19671_30144.png",
         "has_temporal": false,
         "past_image": null
       }
     },
-    "19662_30145": {
-      "site_id": "19662_30145",
-      "lat": -33.85673140746145,
-      "lon": 151.1883544921875,
+    "19654_30131": {
+      "site_id": "19654_30131",
+      "lat": -33.78371293377322,
+      "lon": 151.0345458984375,
       "ground_truth": {
-        "density_score": 7.76,
-        "green_ratio": 0.58,
-        "land_use": "High-Density Urban",
-        "carbon_emission": 852.7633514404297,
+        "population_density": 3.3,
+        "land_use_categories": [
+          "landuse"
+        ],
         "infrastructure_counts": {
-          "Baseball Field": 0,
-          "Basketball Court": 0,
-          "Ground Track Field": 0,
-          "Roundabout": 0,
-          "Soccer Ball Field": 0,
+          "Airport": 0,
           "Stadium": 0,
-          "Storage Tank": 0,
-          "Swimming Pool": 3,
-          "Tennis Court": 0,
-          "Train Station": 0,
-          "Windmill": 0,
-          "Solar Panel": 0
-        },
-        "density_classification": "Dense",
-        "green_ratio_classification": "Medium"
+          "Golf Field": 0,
+          "Harbor": 0,
+          "Ground Track Field": 0,
+          "Soccer Ball Field": 1,
+          "Train Station": 0
+        }
       },
       "meta": {
-        "current_image": "19662_30145.png",
+        "current_image": "resources/Sydney/19654_30131.png",
         "has_temporal": false,
         "past_image": null
       }
     },
-    "19677_30149": {
-      "site_id": "19677_30149",
-      "lat": -33.99347287305545,
-      "lon": 151.2322998046875,
+    "19665_30150": {
+      "site_id": "19665_30150",
+      "lat": -33.884097257399986,
+      "lon": 151.2432861328125,
       "ground_truth": {
-        "density_score": 5.94,
-        "green_ratio": 0.12,
-        "land_use": "Industrial/Commercial",
-        "carbon_emission": 145.15683873494467,
+        "population_density": 6.7,
+        "land_use_categories": [
+          "landuse",
+          "natural"
+        ],
         "infrastructure_counts": {
-          "Baseball Field": 0,
-          "Basketball Court": 0,
-          "Ground Track Field": 0,
-          "Roundabout": 0,
-          "Soccer Ball Field": 0,
+          "Airport": 0,
           "Stadium": 0,
-          "Storage Tank": 0,
-          "Swimming Pool": 0,
-          "Tennis Court": 0,
-          "Train Station": 0,
-          "Windmill": 0,
-          "Solar Panel": 0
-        },
-        "density_classification": "Moderate",
-        "green_ratio_classification": "Low"
+          "Golf Field": 0,
+          "Harbor": 0,
+          "Ground Track Field": 0,
+          "Soccer Ball Field": 1,
+          "Train Station": 0
+        }
       },
       "meta": {
-        "current_image": "19677_30149.png",
+        "current_image": "resources/Sydney/19665_30150.png",
         "has_temporal": false,
         "past_image": null
       }

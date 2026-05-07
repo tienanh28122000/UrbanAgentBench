@@ -1,0 +1,66 @@
+[
+	{
+		"name": "get_satellite_tile",
+		"type": "Satellite",
+		"arguments": {
+			"lat": "float",
+			"lon": "float"
+		},
+		"output_format": "str",
+		"behavior": "[READ] Resolves a latitude/longitude pair into the corresponding current satellite tile path stored in the local benchmark dataset.",
+		"method": "Real Data (Local Tile Lookup)"
+	},
+	{
+		"name": "classify_land_use",
+		"type": "Satellite",
+		"arguments": {
+			"image_path": "str"
+		},
+		"output_format": "list[str]",
+		"behavior": "[READ] Uses the vision backend to identify which OpenStreetMap land-use categories are present at the site. Returns a list of matching tags from: 'landuse' (built-up/managed land), 'natural' (vegetation/water/bare ground), 'leisure' (parks/sports/recreation). A site may have multiple categories.",
+		"method": "VLM Inference"
+	},
+	{
+		"name": "analyze_urban_density",
+		"type": "Satellite",
+		"arguments": {
+			"image_path": "str"
+		},
+		"output_format": "float",
+		"behavior": "[READ] Uses the vision backend to estimate population density and returns a score from 0.0 (uninhabited) to 9.9 (extremely dense), calibrated against cities worldwide.",
+		"method": "VLM Inference"
+	},
+	{
+		"name": "detect_infrastructure",
+		"type": "Satellite",
+		"arguments": {
+			"image_path": "str",
+			"feature_query": "str"
+		},
+		"output_format": "bool",
+		"behavior": "[READ] Uses the vision backend to determine whether a specific infrastructure element is present (True) or absent (False) in the satellite image. Supported types: Bridge, Stadium, Train Station, Golf Field, Soccer Ball Field, Swimming Pool, Tennis Court, Roundabout, Basketball Court, Ground Track Field, Baseball Field, Overpass, Storage Tank, Windmill.",
+		"method": "VLM Inference"
+	},
+	{
+		"name": "submit_site_assessment",
+		"type": "Satellite",
+		"arguments": {
+			"site_id": "str",
+			"decision": "str",
+			"justification": "str"
+		},
+		"output_format": "Dict",
+		"behavior": "[WRITE] Persists the agent's final site assessment and justification into the benchmark state as the completed decision record. Requires explicit user confirmation before calling.",
+		"method": "Simulated (State Mutation)"
+	},
+	{
+		"name": "transfer_to_human_agents",
+		"type": "NaN",
+		"arguments": {
+			"summary": "str"
+		},
+		"output_format": "str",
+		"behavior": "[WRITE] Transfer the user to a human agent, with a summary of the user's issue.",
+		"method": "NaN"
+	}
+]

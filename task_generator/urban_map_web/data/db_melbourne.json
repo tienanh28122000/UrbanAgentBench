@@ -1,0 +1,2587 @@
+{
+    "places": {
+        "ChIJc8COMfBD1moRt-wjTv4n0Ag": {
+            "place_id": "ChIJc8COMfBD1moRt-wjTv4n0Ag",
+            "name": "Distrikt Press Cafe",
+            "location": {
+                "lat": -37.8212397,
+                "lng": 144.9651956
+            },
+            "address": "9 Riverside Quay, Southbank VIC 3006, Australia",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 5,
+            "user_rating_count": 2,
+            "price_level": 1,
+            "website_url": "https://all.accor.com/hotel/B983/index.en.shtml",
+            "phone_number": "(03) 7046 1300",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 6:30 – 10:30 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Tuesday: 6:30 – 10:30 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Wednesday: 6:30 – 10:30 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Thursday: 6:30 – 10:30 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Friday: 6:30 – 10:30 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Saturday: 7:00 – 11:00 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM",
+                    "Sunday: 7:00 – 11:00 AM, 12:00 – 2:30 PM, 5:00 – 9:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Fantastic hotel lobby bar-cafe-restaurant at the Mercure Southbank, which is open for lunch, and dinner (from 17:30). Plus serving drinks and pastries/sandwiches in between (plus the hotel's breakfast buffet). Food exceeded all expectations - it was all excellent. I leant into the proper mains, but there were also plenty of crowdpleasing options (burger, schnitzel, pasta, fish n chips). Staff were great. Atmosphere was relaxed. It's nicely furnished, and, with plenty of light, provides a comfortable space to spend time in (aside from there being loads of TV screens). I loved it, and popping down was a highlight of my stay at the Mercure.",
+                    "time": "2025-12-02T15:04:58.067011195Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "",
+                    "time": "2024-12-13T12:04:10.078279Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 13:00": 10,
+                "2026-03-22 17:30": 2,
+                "2026-03-22 19:30": 2,
+                "2026-03-22 21:00": 4,
+                "2026-03-23 10:30": 12,
+                "2026-03-23 14:00": 4,
+                "2026-03-23 20:00": 4,
+                "2026-03-23 20:30": 0,
+                "2026-03-24 08:00": 12,
+                "2026-03-24 12:00": 2,
+                "2026-03-24 13:00": 12,
+                "2026-03-24 18:00": 6
+            }
+        },
+        "ChIJveP9iiBo1moRTxhTiWaGy0I": {
+            "place_id": "ChIJveP9iiBo1moRTxhTiWaGy0I",
+            "name": "South Yarra Presbyterian Church",
+            "location": {
+                "lat": -37.840328,
+                "lng": 144.98589099999998
+            },
+            "address": "621 Punt Rd, South Yarra VIC 3141, Australia",
+            "types": [
+                "church",
+                "place_of_worship",
+                "association_or_organization",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.9,
+            "user_rating_count": 23,
+            "price_level": 1,
+            "website_url": "http://www.southyarrachurch.org/",
+            "phone_number": "(03) 9867 4637",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: Closed",
+                    "Tuesday: Closed",
+                    "Wednesday: Closed",
+                    "Thursday: 7:00 – 9:00 PM",
+                    "Friday: Closed",
+                    "Saturday: 10:00 AM – 12:00 PM",
+                    "Sunday: 10:00 AM – 12:30 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Discover the Gospel of Jesus Christ, with the regulars. I'm regularly here and often and current enough to know this Google maps status designation as Temporarily Closed is WRONG. Google please make amends, I've provided photos of the car park of attenders filling up Today!",
+                    "time": "2022-02-06T04:02:07.212231Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I have been welcomed , encouraged,supported,the church follows the bible and the people in the church show me real Christianity in action..I am on a journey,seeking Christ,the church people are leading me in the right way",
+                    "time": "2023-03-29T01:59:17.143019Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Very good sermon which holds Bible to be God's words; harmonious and close-knit Christian community",
+                    "time": "2019-02-12T05:28:01.758185Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:30": 6,
+                "2026-03-22 13:00": 12,
+                "2026-03-22 17:30": 10,
+                "2026-03-22 19:00": 0,
+                "2026-03-22 20:00": 4,
+                "2026-03-23 09:00": 12,
+                "2026-03-23 13:00": 10,
+                "2026-03-23 18:00": 0,
+                "2026-03-23 19:00": 4,
+                "2026-03-23 21:00": 2
+            }
+        },
+        "ChIJry7j_5xC1moRJBVX8VQE7Wc": {
+            "place_id": "ChIJry7j_5xC1moRJBVX8VQE7Wc",
+            "name": "Darling Cafe",
+            "location": {
+                "lat": -37.8384826,
+                "lng": 144.99149079999998
+            },
+            "address": "2 Darling St, South Yarra VIC 3141, Australia",
+            "types": [
+                "cafe",
+                "breakfast_restaurant",
+                "coffee_shop",
+                "food_store",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.3,
+            "user_rating_count": 809,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "https://darlingcafe.com.au/",
+            "phone_number": "(03) 9820 9222",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 7:00 AM – 4:00 PM",
+                    "Tuesday: 7:00 AM – 4:00 PM",
+                    "Wednesday: 7:00 AM – 4:00 PM",
+                    "Thursday: 7:00 AM – 4:00 PM",
+                    "Friday: 7:00 AM – 4:00 PM",
+                    "Saturday: 7:00 AM – 4:00 PM",
+                    "Sunday: 7:00 AM – 4:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": true,
+                "outdoorSeating": true
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Amazing food and service! The steak sandwich was so tender and cooked beautifully! The Nasi Goreng had the perfect balance of ingredients and was fantastic! Definitely recommend and I am excited to come back 😊",
+                    "time": "2025-12-24T02:11:49.302846950Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "On a rainy Melbourne morning, this cosy café was the perfect way to brighten my day. Just a short walk from my hotel, I stumbled across this relaxed spot and was not disappointed. The service was wonderful, the early-morning ambience calm and inviting, the coffee strong, smoothy  delicious—and my breakfast was truly yummy. Highly recommend!",
+                    "time": "2025-11-22T21:25:34.955986051Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Absolute hidden gem off the beaten track! It actually has great tasting coffee and also food that has flavour! Thanks to Frey and Arisa (hope i didn't butcher the names) for always bringing their best selves and service with smile",
+                    "time": "2026-03-05T04:13:57.364260473Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 10:30": 8,
+                "2026-03-22 17:30": 8,
+                "2026-03-22 20:00": 4,
+                "2026-03-22 21:00": 6,
+                "2026-03-23 13:00": 12,
+                "2026-03-23 18:00": 0,
+                "2026-03-23 19:30": 0,
+                "2026-03-23 20:30": 0,
+                "2026-03-24 18:00": 8,
+                "2026-03-24 21:00": 10,
+                "2026-03-25 09:00": 4,
+                "2026-03-25 12:30": 6,
+                "2026-03-25 18:30": 4,
+                "2026-03-26 08:00": 6,
+                "2026-03-26 09:00": 6,
+                "2026-03-26 18:00": 10,
+                "2026-03-26 20:00": 4
+            }
+        },
+        "ChIJ0yRyXq1C1moR0kuhihM0Dns": {
+            "place_id": "ChIJ0yRyXq1C1moR0kuhihM0Dns",
+            "name": "Freshwater Place",
+            "location": {
+                "lat": -37.8214131,
+                "lng": 144.96206089999998
+            },
+            "address": "1 Freshwater Pl, Southbank VIC 3006, Australia",
+            "types": [
+                "condominium_complex",
+                "service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.3,
+            "user_rating_count": 606,
+            "price_level": 1,
+            "website_url": "https://www.freshwaterplace.com.au/",
+            "phone_number": "",
+            "business_status": "OPERATIONAL",
+            "opening_hours": null,
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "Restaurant and food hub at the entrances. Other stores nearby.",
+                    "time": "2026-01-27T12:06:52.537753868Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "Freshwater place is fine if you have a reason to be there. It has a few cheap food alternatives, you just can’t eat them outside because the birds are quite aggressive there towards anyone eating.\n\nIt looks nice enough and is close to the Yarra River and Flinders St Station. I find it easy to access, but I need a reason to be there!",
+                    "time": "2025-02-23T07:44:41.886131Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I Like this residential building a lot. It has great facilities which are available on 2 different levels.\nThey have a very well equipped gym (new equipment), pool, spa, steam room, sauna, movie room (upgraded soon), massage rooms, large outdoor area with several BBQs, meeting room etc.\n\nI recorded the video from level 59 penthouse and another video from one of the BBQ areas. Awesome city view just next to the river.",
+                    "time": "2023-01-09T21:59:03.772630Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:30": 12,
+                "2026-03-22 19:30": 4,
+                "2026-03-22 21:00": 0,
+                "2026-03-23 12:00": 4,
+                "2026-03-23 12:30": 4
+            }
+        },
+        "ChIJpzMMZ7JC1moRw81gAuNuexI": {
+            "place_id": "ChIJpzMMZ7JC1moRw81gAuNuexI",
+            "name": "Belgian Beer Cafe",
+            "location": {
+                "lat": -37.8214975,
+                "lng": 144.9643633
+            },
+            "address": "5 Riverside Quay, Southbank VIC 3006, Australia",
+            "types": [
+                "pub",
+                "cafe",
+                "bar",
+                "event_venue",
+                "restaurant",
+                "food",
+                "service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.3,
+            "user_rating_count": 1775,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "http://www.belgianbeercafemelbourne.com.au/",
+            "phone_number": "(03) 9690 5777",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 12:00 – 11:00 PM",
+                    "Tuesday: 12:00 – 11:00 PM",
+                    "Wednesday: 12:00 – 11:00 PM",
+                    "Thursday: 12:00 – 11:00 PM",
+                    "Friday: 12:00 PM – 1:00 AM",
+                    "Saturday: 12:00 PM – 1:00 AM",
+                    "Sunday: 12:00 – 11:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": true,
+                "goodForChildren": true,
+                "servesVegetarianFood": false,
+                "outdoorSeating": true
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Excellent, wide and deep beer selection. Spent a birthday here with a group. Friendly staff provided us with a somewhat secluded corner which was great. Good food, e.g. the burger and the sausages with mashed potato. The cheese croquettes are misnamed though, they are crumbed bits of cheese and mediocre.\nThe outside seats allow for some great people watching.",
+                    "time": "2026-01-18T03:56:43.201923986Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I would give six stars if I could. So lovely staff, they are genuine and it's old school real service with smile! Great selection of Belgian beers. We also had some pretzel, fries and mussel pot. Delicious and it tasted like we were back in Europe! Highly recommended place and we will definitely go back when we are in Melbourne next time. It is pretty crowded, for a good reason, so I would recommend booking a table if you go during peak times.",
+                    "time": "2025-11-18T08:59:07.528804332Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Lovely atmosphere, great beer (the fruit beer is amazing!), and tasty food. The staff are really friendly and the service is excellent. Highly recommend booking a table in advance. Definitely a place I’d love to come back to!",
+                    "time": "2025-08-16T08:08:20.164313413Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 09:00": 10,
+                "2026-03-22 13:00": 10,
+                "2026-03-22 18:00": 4,
+                "2026-03-22 18:30": 6,
+                "2026-03-22 19:30": 4,
+                "2026-03-23 13:00": 4,
+                "2026-03-23 17:00": 8,
+                "2026-03-23 18:00": 6,
+                "2026-03-23 20:00": 4,
+                "2026-03-24 09:00": 4,
+                "2026-03-24 13:00": 8,
+                "2026-03-24 14:00": 8,
+                "2026-03-24 19:00": 10,
+                "2026-03-25 12:30": 12,
+                "2026-03-25 14:00": 4,
+                "2026-03-25 17:00": 4,
+                "2026-03-25 18:00": 4,
+                "2026-03-25 20:30": 6,
+                "2026-03-26 08:00": 6,
+                "2026-03-26 17:00": 0,
+                "2026-03-26 19:00": 8,
+                "2026-03-26 19:30": 8,
+                "2026-03-26 20:00": 0
+            }
+        },
+        "ChIJ5SvQ-MVC1moRacNaHSOTnKk": {
+            "place_id": "ChIJ5SvQ-MVC1moRacNaHSOTnKk",
+            "name": "Comedy Theatre",
+            "location": {
+                "lat": -37.810291,
+                "lng": 144.97002369999998
+            },
+            "address": "240 Exhibition St, Melbourne VIC 3000, Australia",
+            "types": [
+                "performing_arts_theater",
+                "event_venue",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.6,
+            "user_rating_count": 2847,
+            "price_level": 1,
+            "website_url": "https://marrinergroup.com.au/shows?venue=comedy-theatre",
+            "phone_number": "1300 111 011",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Lovely building beautiful architecture. Seats comfy. Saw Cluedo which was hillarious with an amazing twist. Had a lovely cocktail at the bar of the theatre. They could have more seating inside the bar area.",
+                    "time": "2026-02-27T22:04:37.284506755Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "One of the excellent smaller auditoriums.\nWe arrived early just to see the amenities before the show; A Christmas Carol.\nEverything from bathrooms to bar staff were excellent.\nKnowing a seating plan, I chose well with seats in stalls and I wasn’t disappointed.\nExcellent seats and views were afforded.\nHasn’t been in years but will return more often.\nShow was a hit too. We loved it",
+                    "time": "2025-12-22T03:30:47.886987988Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Staff were so supportive for my mum's wheelchair access. They deserve more than 5 stars.",
+                    "time": "2025-12-30T09:34:08.319627385Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 09:00": 8,
+                "2026-03-22 12:00": 10,
+                "2026-03-22 13:00": 8,
+                "2026-03-22 18:30": 6,
+                "2026-03-23 13:00": 4,
+                "2026-03-23 17:30": 0,
+                "2026-03-24 08:00": 10,
+                "2026-03-24 17:00": 8,
+                "2026-03-24 18:30": 0,
+                "2026-03-24 19:30": 2,
+                "2026-03-25 08:00": 8,
+                "2026-03-25 12:30": 2
+            }
+        },
+        "ChIJQXsLmTFD1moRy4IlHdYzWKo": {
+            "place_id": "ChIJQXsLmTFD1moRy4IlHdYzWKo",
+            "name": "AMIRI CAFE",
+            "location": {
+                "lat": -37.8105982,
+                "lng": 144.96595019999998
+            },
+            "address": "Shop R02, 14 Cnr Lonsdale Street, QV, Melbourne VIC 3000, Australia",
+            "types": [
+                "cafe",
+                "dessert_shop",
+                "confectionery",
+                "food_store",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.5,
+            "user_rating_count": 1871,
+            "price_level": 1,
+            "website_url": "https://www.kpos.com.au/amiri/index_table.php?tableno=996",
+            "phone_number": "",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 9:45 AM – 10:00 PM",
+                    "Tuesday: 9:45 AM – 10:00 PM",
+                    "Wednesday: 9:45 AM – 10:00 PM",
+                    "Thursday: 9:45 AM – 10:00 PM",
+                    "Friday: 9:45 AM – 11:00 PM",
+                    "Saturday: 9:45 AM – 11:00 PM",
+                    "Sunday: 9:45 AM – 10:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "The restaurant is spacious, has a nice atmosphere, and is busy. Customers order food via QR code but pay at the counter. The food doesn't take long to arrive, looks good, and tastes delicious, but the prices are a bit high.",
+                    "time": "2026-01-11T10:11:38.466612307Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "I met my friend here for brunch. Nice location and good vibe.\nQR code to order, but pay at the register when leaving.\nMy meal choice was the Kyoto Omurice. I’m not sure it was a great selection for brunch. I found it quite heavy on the stomach. The burger was substantial, but it was just a lump of meat with no flavour. There was plenty of sauce, but it was lukewarm. Overall, this dish lacked flavour, but surprisingly it’s labelled as ‘popular’.\nOn the other hand, my friend’s dish, Fried Chicken HotCakes was very good and full of flavour. Side note, there was only one hotcake (not hotcakes).\nStaff were friendly and attentive.",
+                    "time": "2026-01-22T07:08:57.829996974Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "highly recommend, one of the best cafes i have visited in melbourne cbd!! the overall appearance is super instagram worthy, staff are friendly and helpful, ideal date spot, tried the cake, drinks, and some food all was really great!! also the music in store was really nice lol:) i went with one other person and our total was around $60 for a brunch meal. something you may want to know: there is weekend surcharge and card surcharge, but there is a 5% discount if you pay by cash. overall i love this place, will definitely go again!!!",
+                    "time": "2026-03-04T08:12:45.539514550Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:30": 8,
+                "2026-03-22 17:00": 4,
+                "2026-03-23 14:00": 6,
+                "2026-03-23 17:00": 6,
+                "2026-03-23 20:00": 6,
+                "2026-03-23 20:30": 0,
+                "2026-03-24 12:30": 12,
+                "2026-03-24 17:00": 4,
+                "2026-03-24 18:00": 8,
+                "2026-03-24 20:00": 4,
+                "2026-03-25 10:30": 12,
+                "2026-03-25 12:30": 6,
+                "2026-03-25 18:00": 8,
+                "2026-03-25 19:30": 4,
+                "2026-03-26 08:00": 4,
+                "2026-03-26 12:00": 12,
+                "2026-03-26 14:00": 12,
+                "2026-03-26 18:00": 4,
+                "2026-03-26 18:30": 10
+            }
+        },
+        "ChIJNbbeGhpD1moRYhlJy2LyBRY": {
+            "place_id": "ChIJNbbeGhpD1moRYhlJy2LyBRY",
+            "name": "Sulbing Dessert Cafe",
+            "location": {
+                "lat": -37.810578,
+                "lng": 144.96737919999998
+            },
+            "address": "168 Lonsdale St, Melbourne VIC 3000, Australia",
+            "types": [
+                "cafe",
+                "dessert_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.1,
+            "user_rating_count": 1408,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "https://sulbingcafe.com.au/",
+            "phone_number": "(03) 9957 1835",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 1:00 – 10:00 PM",
+                    "Tuesday: 1:00 – 10:00 PM",
+                    "Wednesday: 1:00 – 10:00 PM",
+                    "Thursday: 1:00 – 10:00 PM",
+                    "Friday: 1:00 – 11:00 PM",
+                    "Saturday: 12:00 – 11:00 PM",
+                    "Sunday: 12:00 – 10:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "Cool-down on a scorcher! This is the perfect remedy for a 41.1°C Melbourne day. We stopped in for the Yuzu Matcha bingsu and iced lattes. They were exactly what we needed... refreshing, cooling, sweet... absolutely hit the spot.\n​It is on the pricier side for bingsu but you can taste the quality ingredients, so it is delicious nonetheless.\nThe service was quick and efficient with no wait time.",
+                    "time": "2026-01-24T14:18:54.438022946Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "I love the bingsu here. The quantity is good enough for 2 people. It’s usually busy around evenings so we have to wait in queue outside to get a table. They have good flavour options as well!",
+                    "time": "2026-03-03T23:28:32.996677738Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I had an amazing visit at Sulbing, and it easily became one of my favorite dessert spots in Melbourne. I ordered the pistachio chocolate bingsu, and it was incredible 💕 rich pistachio spread, smooth chocolate sauce, crunchy kadaif, and soft, fluffy shaved ice that all came together perfectly.\n\nI also tried the strawberry hotteok, which ended up being my personal favorite. The warm, chewy hotteok with the bright strawberry filling was such a good balance.\n\nFor drinks, I had the ice Biscoff latte and the injeolmi latte. Both were sweet, comforting, and great alongside the desserts.\n\nPlus, the café stays open till late, which makes it an easy go-to for night hangouts or a late dessert craving.\n\nHighly recommend if you’re looking for delicious Korean desserts! 🍧✨",
+                    "time": "2025-11-28T10:23:04.651689236Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 08:00": 2,
+                "2026-03-22 20:00": 4,
+                "2026-03-23 12:30": 8,
+                "2026-03-23 14:00": 10,
+                "2026-03-23 17:00": 2,
+                "2026-03-24 10:30": 6,
+                "2026-03-24 12:30": 6,
+                "2026-03-24 20:30": 4,
+                "2026-03-24 21:00": 6,
+                "2026-03-25 10:30": 6,
+                "2026-03-25 12:00": 12,
+                "2026-03-25 21:00": 0
+            }
+        },
+        "ChIJH4H-YZhC1moReYT-UlrpsOQ": {
+            "place_id": "ChIJH4H-YZhC1moReYT-UlrpsOQ",
+            "name": "Melbourne Girls Grammar",
+            "location": {
+                "lat": -37.8309032,
+                "lng": 144.98502929999998
+            },
+            "address": "86 Anderson St, South Yarra VIC 3141, Australia",
+            "types": [
+                "school",
+                "educational_institution",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 0.0,
+            "user_rating_count": 0,
+            "price_level": 1,
+            "website_url": "https://www.mggs.vic.edu.au/",
+            "phone_number": "(03) 9862 9200",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 8:00 AM – 4:30 PM",
+                    "Tuesday: 8:00 AM – 4:30 PM",
+                    "Wednesday: 8:00 AM – 4:30 PM",
+                    "Thursday: 8:00 AM – 4:30 PM",
+                    "Friday: 8:00 AM – 4:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: Closed"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [],
+            "available_slots": {
+                "2026-03-22 12:00": 10,
+                "2026-03-22 13:00": 6,
+                "2026-03-22 17:00": 0,
+                "2026-03-22 18:30": 10,
+                "2026-03-22 19:00": 8,
+                "2026-03-23 10:30": 2,
+                "2026-03-23 18:00": 10,
+                "2026-03-23 20:30": 4,
+                "2026-03-24 17:00": 4,
+                "2026-03-24 21:00": 4
+            }
+        },
+        "ChIJp9T0MgBD1moR6GvEO4lX7yQ": {
+            "place_id": "ChIJp9T0MgBD1moR6GvEO4lX7yQ",
+            "name": "Peninsula HK Island Cafe",
+            "location": {
+                "lat": -37.8120349,
+                "lng": 144.96757789999998
+            },
+            "address": "191 Russell St, Melbourne VIC 3000, Australia",
+            "types": [
+                "chinese_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.5,
+            "user_rating_count": 343,
+            "price_level": 1,
+            "website_url": null,
+            "phone_number": "0478 553 191",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 11:30 AM – 9:00 PM",
+                    "Tuesday: 11:30 AM – 9:00 PM",
+                    "Wednesday: 11:30 AM – 9:00 PM",
+                    "Thursday: 11:30 AM – 9:00 PM",
+                    "Friday: 11:30 AM – 9:00 PM",
+                    "Saturday: 11:30 AM – 9:00 PM",
+                    "Sunday: 11:30 AM – 9:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Absolutely loved the peanut butter French toast! It was the perfect mix of sweet and salty. The simple toppings of butter and condensed milk soaking into the pillowy soft bread was heavenly. At only $8 for a giant serve it was great value too. We also tried the crispy noodles with mixed vegetables which was really tasty and loved the texture of the noodles. Serving sizes were very generous and we couldn’t finish it all but really enjoyed what we had. The options for vegetarians are quite limited but there are a few meals and snacks available. The drinks menu is quite extensive and includes some traditional Hong Kong style offerings and some nostalgic treats like Ovaltine and Ribena. The golden brick French toast and some of noodle dishes we saw other diners having looked incredible.  Service was fast and friendly with the option to order via QR code or at the counter. We’ll definitely be back for more of that PB French toast!",
+                    "time": "2026-02-24T05:30:56.481472643Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "An authentic Hong Kong–style restaurant with delicious food and a very wide variety of dishes. There are so many choices that you could come here many times and still not get bored.\n\nThe environment is clean and well maintained. Hot and cold drinking water, as well as sharing bowls, are available for customers to help themselves.\n\nThe most memorable feature is the restroom. The owner designed an iPhone-style passcode lock graphic outside the restroom door, which almost makes you think a password is required to enter! It’s a fun and clever touch that really brings a smile to your face.",
+                    "time": "2026-02-12T12:46:19.335921269Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "SINCHAN or me eating Golden brick beef curry? 🤯🔥\n\nReal Hong Kong flavours done properly🥢 from classic roast meats to silky rice rolls soaked in hoisin & sesame.\nSpam fries, pineapple bun, fish siu mai… not a single miss.\n\nIf you love HK food, this one’s a must. 🇭🇰✨\n\nIg: worldofnom.au",
+                    "time": "2026-02-08T20:28:21.052347401Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 09:00": 10,
+                "2026-03-22 19:00": 4,
+                "2026-03-22 20:00": 8,
+                "2026-03-23 08:00": 10,
+                "2026-03-23 17:00": 4,
+                "2026-03-23 19:00": 4,
+                "2026-03-24 19:00": 0,
+                "2026-03-24 21:00": 4
+            }
+        },
+        "ChIJ1TE6FrRC1moRqIlJB1BNElI": {
+            "place_id": "ChIJ1TE6FrRC1moRqIlJB1BNElI",
+            "name": "Cafe Andiamo",
+            "location": {
+                "lat": -37.817052,
+                "lng": 144.9657782
+            },
+            "address": "36-38 Degraves St, Melbourne VIC 3000, Australia",
+            "types": [
+                "cafe",
+                "breakfast_restaurant",
+                "coffee_shop",
+                "food_store",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 3.7,
+            "user_rating_count": 1048,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "https://www.instagram.com/cafe_andiamo/",
+            "phone_number": "(03) 9650 8060",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 6:00 AM – 9:00 PM",
+                    "Tuesday: 6:00 AM – 9:00 PM",
+                    "Wednesday: 6:00 AM – 9:00 PM",
+                    "Thursday: 6:00 AM – 9:00 PM",
+                    "Friday: 6:00 AM – 10:00 PM",
+                    "Saturday: 6:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 9:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": true,
+                "outdoorSeating": true
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Tried their eggs Benedict and it was absolutely delicious! Eggs poached well and hollandaise light and creamy. The mocha was nice too though could've been warmer. Staff were pretty efficient despite the busyness. Always love the atmosphere of degraves St, makes me feel like I'm on holiday visiting.\n\nPrice guide (as of Oct 2025):\nBenedict $25\nMocha $6.50",
+                    "time": "2025-10-24T23:48:30.138230903Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I often come here for lunch and they always welcome me in such a lovely and special way!\nThe pasta is absolutely delicious❤️ My favorite is the Chilli Prawn.\nI usually get it with either olive oil or tomato base, and the prawns are always so fresh.\nThe balance between the sauce and pasta is just perfect, and they even give you Parmesan cheese if you ask.\nI also love their coffee\nhonestly, the best coffee in Melbourne! ☕💛",
+                    "time": "2025-10-23T02:45:12.828031179Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "True to Melbourne‘s coffee scene, this cafe is a must visit for Sydney people. We don’t have the same vibe in the heart of Sydney, a real authentic laneway hideout feel to this cafe. Food is good and service is good.",
+                    "time": "2025-11-30T05:15:31.806592531Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:00": 12,
+                "2026-03-22 19:30": 10,
+                "2026-03-22 20:00": 6,
+                "2026-03-23 08:00": 12,
+                "2026-03-23 10:30": 8,
+                "2026-03-23 14:00": 10,
+                "2026-03-23 17:30": 0,
+                "2026-03-23 18:30": 4,
+                "2026-03-24 10:30": 6,
+                "2026-03-24 12:30": 2,
+                "2026-03-24 17:00": 0,
+                "2026-03-24 19:00": 10,
+                "2026-03-24 21:00": 2,
+                "2026-03-25 08:00": 8,
+                "2026-03-25 19:30": 0
+            }
+        },
+        "ChIJh0lVrq1C1moRAH6d5TRhrLY": {
+            "place_id": "ChIJh0lVrq1C1moRAH6d5TRhrLY",
+            "name": "Donor Tissue Bank Of Victoria",
+            "location": {
+                "lat": -37.8242912,
+                "lng": 144.9644625
+            },
+            "address": "Coroners Courts, 65 Kavanagh St, Southbank VIC 3006, Australia",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 5,
+            "user_rating_count": 2,
+            "price_level": 1,
+            "website_url": "https://www.dtbv.org.au/",
+            "phone_number": "(03) 9684 4444",
+            "business_status": "OPERATIONAL",
+            "opening_hours": null,
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Small organisation, but mighty in power when it comes to serving the community at large. Great place to work with, under the umbrella or Victorian Institute of Forensic Medicine.",
+                    "time": "2024-11-22T00:54:17.899712Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "",
+                    "time": "2023-09-01T05:36:33.935116Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:00": 8,
+                "2026-03-22 14:00": 12,
+                "2026-03-23 08:00": 10,
+                "2026-03-23 09:00": 2,
+                "2026-03-23 19:30": 2,
+                "2026-03-24 10:30": 6,
+                "2026-03-24 19:00": 4,
+                "2026-03-24 19:30": 0,
+                "2026-03-24 21:00": 2,
+                "2026-03-25 13:00": 6,
+                "2026-03-25 17:30": 8,
+                "2026-03-25 18:00": 6,
+                "2026-03-25 20:30": 8,
+                "2026-03-25 21:00": 10,
+                "2026-03-26 12:30": 8,
+                "2026-03-26 13:00": 8,
+                "2026-03-26 17:30": 8,
+                "2026-03-26 21:00": 4
+            }
+        },
+        "ChIJzahLYf5D1moRrem1Q4hSaAA": {
+            "place_id": "ChIJzahLYf5D1moRrem1Q4hSaAA",
+            "name": "Misty Pot Korean Grill Bar & Cafe",
+            "location": {
+                "lat": -37.8060128,
+                "lng": 144.9426219
+            },
+            "address": "35 Dryburgh St, West Melbourne VIC 3003, Australia",
+            "types": [
+                "korean_restaurant",
+                "bar_and_grill",
+                "coffee_shop",
+                "cafe",
+                "bar",
+                "food_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "rating": 4.7,
+            "user_rating_count": 273,
+            "price_level": 1,
+            "website_url": "https://www.instagram.com/mistypot_melbourne?igsh=dmhydDVwaG42eXJr",
+            "phone_number": "0466 883 975",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: 11:00 AM – 3:30 PM, 5:30 – 9:30 PM",
+                    "Tuesday: 11:00 AM – 3:30 PM, 5:30 – 9:30 PM",
+                    "Wednesday: Closed",
+                    "Thursday: 11:00 AM – 3:30 PM, 5:30 – 9:30 PM",
+                    "Friday: 11:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+                    "Saturday: 11:30 AM – 3:30 PM, 5:30 – 9:30 PM",
+                    "Sunday: 11:30 AM – 3:30 PM, 5:30 – 9:30 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false
+            },
+            "amenities": {
+                "allowsDogs": true,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": true
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "This little gem of a restaurant tucked away in West Melbourne was a delightful suprise. My partner and I had lunch here and the service/food was absolutely delicious. The restaurant sits about 25 pax and has a cozy atmosphere. My partner ordered a noodle dish and I ordered the pork. Both were flavoursome and beautifully present. We will definitely be back to try some other dishes.",
+                    "time": "2025-11-01T04:53:30.937703743Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Very small cozy Korean Grill Bar & Cafe, very welcoming and friendly environment. Simple and delicious menu with some amazing chefs special to choose. Tried their La Galbi special and it was delicious. I do recommend them and it's a must visit place. I definitely be going back to try other items on the menu.",
+                    "time": "2025-10-09T07:20:47.795213793Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Really love this place. The food is so hearty and fulfilling. I am so grateful to have a Korean restaurant that serves amazing food with a kind smile on their face. The staff are attentive and the restaurant itself is welcoming, even if it's small.",
+                    "time": "2025-12-28T07:35:15.661864110Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 08:00": 8,
+                "2026-03-22 13:00": 2,
+                "2026-03-22 18:00": 4,
+                "2026-03-22 18:30": 0,
+                "2026-03-22 21:00": 8,
+                "2026-03-23 10:30": 8,
+                "2026-03-23 19:00": 4,
+                "2026-03-24 09:00": 10,
+                "2026-03-24 14:00": 2,
+                "2026-03-24 18:30": 0,
+                "2026-03-24 19:00": 0,
+                "2026-03-24 19:30": 0
+            }
+        },
+        "ChIJKc7PbCxD1moR4FMwBXZWBA8": {
+            "place_id": "ChIJKc7PbCxD1moR4FMwBXZWBA8",
+            "name": "Melbourne General Cemetery",
+            "location": {
+                "lat": -37.7916965,
+                "lng": 144.9618751
+            },
+            "address": "College Cres, Parkville VIC 3052, Australia",
+            "types": [
+                "cemetery",
+                "park",
+                "service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.6,
+            "user_rating_count": 76,
+            "price_level": 1,
+            "website_url": "https://www.smct.org.au/locations/melbourne-general-cemetery",
+            "phone_number": "",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 10:00 AM – 2:00 PM",
+                    "Tuesday: 10:00 AM – 2:00 PM",
+                    "Wednesday: 10:00 AM – 2:00 PM",
+                    "Thursday: 10:00 AM – 2:00 PM",
+                    "Friday: 10:00 AM – 2:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: Closed"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "The cemetery is divided by religious denomination, as clearly labelled on the site boards. At the main entrance is a memorial garden for Australian Prime Ministers, a lovely rose garden, and a new mausoleum with a reflective glass facade. Here you will also find toilets and the office.\nThere is no extravagant statuary such as you often find in European city cemeteries and large areas are densely crowded with graves with no grass or trees. The gravestone inscriptions often indicate family origins in England, Scotland, Wales and Ireland which will be of interest to family historians.",
+                    "time": "2025-12-18T11:56:41.872142339Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "A vast cemetery and place of interest in the middle of Melbourne.  Beautifully maintained gardens and graves.  Plenty of room to walk through and read on some of the fascinating graves and headstones.  Despite being surrounded by a city population, you can find comfort and have a quiet time to reflect whilst on the grounds.",
+                    "time": "2025-10-29T16:30:07.382992669Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Beautifully maintained cemetery, certainly the largest I’ve ever been to. If you come through the main entrance there’s an office where you can pick up a detailed map, the wonderful staff can also help you with grave location, and there’s even umbrella’s you can borrow which was a lifesaver on the warm day we came. There’s toilets and water fountains spread throughout.\nWe spent no less than 3-4 hours here and barely scratched the surface.",
+                    "time": "2024-10-23T22:14:44.040400Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 08:00": 12,
+                "2026-03-22 13:00": 6,
+                "2026-03-22 18:00": 4,
+                "2026-03-23 13:00": 6,
+                "2026-03-23 17:00": 0,
+                "2026-03-24 08:00": 4,
+                "2026-03-24 17:30": 8,
+                "2026-03-24 19:30": 10,
+                "2026-03-25 08:00": 12,
+                "2026-03-25 09:00": 8,
+                "2026-03-25 18:30": 0,
+                "2026-03-25 19:00": 0,
+                "2026-03-26 18:30": 0,
+                "2026-03-26 21:00": 0
+            }
+        },
+        "ChIJT_Q_s0Jd1moRqPHwhYbkgmQ": {
+            "place_id": "ChIJT_Q_s0Jd1moRqPHwhYbkgmQ",
+            "name": "NewQuay Marina",
+            "location": {
+                "lat": -37.814986499999996,
+                "lng": 144.94200419999999
+            },
+            "address": "1a/401 Docklands Dr, Docklands VIC 3008, Australia",
+            "types": [
+                "marina",
+                "finance",
+                "service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4,
+            "user_rating_count": 10,
+            "price_level": 1,
+            "website_url": "http://www.newquay.com.au/experience/newquay-marina/",
+            "phone_number": "(03) 9091 1400",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 9:00 AM – 5:30 PM",
+                    "Tuesday: 9:00 AM – 5:30 PM",
+                    "Wednesday: 9:00 AM – 5:30 PM",
+                    "Thursday: 9:00 AM – 5:30 PM",
+                    "Friday: 9:00 AM – 5:30 PM",
+                    "Saturday: 9:00 AM – 1:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "A nice relaxing place for a short walk near the water .",
+                    "time": "2025-09-30T23:19:04.701438255Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "Good place",
+                    "time": "2017-06-25T07:04:26.050Z"
+                },
+                {
+                    "rating": 3,
+                    "text": "To experience",
+                    "time": "2017-09-15T03:37:51.191Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:30": 8,
+                "2026-03-22 18:30": 10,
+                "2026-03-22 19:30": 10,
+                "2026-03-23 12:00": 8,
+                "2026-03-23 12:30": 4,
+                "2026-03-23 17:00": 0,
+                "2026-03-23 18:30": 10,
+                "2026-03-23 19:00": 0
+            }
+        },
+        "ChIJfV4IPhF-bIcRi-EeF3_nGlg": {
+            "place_id": "ChIJfV4IPhF-bIcRi-EeF3_nGlg",
+            "name": "Saint Mary’s Anglican Catholic Church",
+            "location": {
+                "lat": 39.6749824,
+                "lng": -104.95479970000001
+            },
+            "address": "2290 S Clayton St, Denver, CO 80210, USA",
+            "types": [
+                "church",
+                "place_of_worship",
+                "association_or_organization",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.5,
+            "user_rating_count": 17,
+            "price_level": 1,
+            "website_url": "http://www.saintmarysacc.org/",
+            "phone_number": "(303) 758-7211",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 7:00 AM – 7:00 PM",
+                    "Tuesday: 7:00 AM – 7:00 PM",
+                    "Wednesday: 7:00 AM – 7:00 PM",
+                    "Thursday: 7:00 AM – 7:00 PM",
+                    "Friday: 7:00 AM – 7:00 PM",
+                    "Saturday: 7:00 AM – 7:00 PM",
+                    "Sunday: 7:00 AM – 7:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "This is where my journey began, i was destined to cone here and serve HIM for rest of my life. Father Bell, Decn. Ryan held my hand and guided me to find purpose of my life. The masses, fellowship always make me feel rooted to that purpose. This is a great homely place of worship where we we can pray and spend a moment of solitude and go out recharged. I highly recommend visiting the Church and definitely the people for great fun & fellowship",
+                    "time": "2025-01-07T19:53:58.383788Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "My husband and I first walked into St Mary's nearly 3 years ago while we were unchurched and desperately seeking traditionalism and spiritual guidance. We left our first Mass speechless, both of us with a sense that something true and beautiful was happening at St Mary's, and knowing that we wanted to be part of it.\nThe liturgy follows the 1928 Book of Common Prayer and the parish maintains an unapologetic dedication to traditional values -- a refreshing characteristic in a time and place where many institutions roll with the tide of popular culture.\nThe community within and around St Mary's has proven to be immeasurably beneficial for raising our three daughters (all under 4 y.o.) and teaching them that church isn't just \"a thing we do on Sunday's,\" rather it is the focusing agent in our lives.\nOver the last year, St Mary's has seen encouraging growth, especially among young families.",
+                    "time": "2025-01-04T21:58:11.471192Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I have attended St. Mary’s for over 25 years. Actually, if you include the first  time I attended St. Mary ‘s, it would be around 30 years.  As a child, my family attended St. Mary’s when it was an Episcopal church about three blocks from our house. Then my father got transferred to Michigan but I returned to Denver to attend college and stayed here.  After college, I attended several Episcopal churches, the last one for over 20 years.  I became upset with how the Episcopal church was becoming less and less “traditional”. In trying several different churches after I left the Episcopal church, I decided to try the church of my childhood as it had become an Anglican Catholic Church.  I felt that I had come home.",
+                    "time": "2025-01-08T00:03:58.550562Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 09:00": 6,
+                "2026-03-22 20:00": 4,
+                "2026-03-23 08:00": 10,
+                "2026-03-23 21:00": 0,
+                "2026-03-24 10:30": 4,
+                "2026-03-24 13:00": 10,
+                "2026-03-24 20:00": 6,
+                "2026-03-25 08:00": 6,
+                "2026-03-25 13:00": 4,
+                "2026-03-25 17:30": 6,
+                "2026-03-26 10:30": 12,
+                "2026-03-26 19:00": 0,
+                "2026-03-26 19:30": 6,
+                "2026-03-26 20:30": 6
+            }
+        },
+        "ChIJ0fpagsClNTERmqYwEXHTqls": {
+            "place_id": "ChIJ0fpagsClNTERmqYwEXHTqls",
+            "name": "Trung Tâm Phân Phối Và Bảo Hành Sơn Myers",
+            "location": {
+                "lat": 20.971688099999998,
+                "lng": 105.9976092
+            },
+            "address": "Hung Yen, Vietnam",
+            "types": [
+                "building_materials_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 0.0,
+            "user_rating_count": 0,
+            "price_level": 1,
+            "website_url": null,
+            "phone_number": "",
+            "business_status": "OPERATIONAL",
+            "opening_hours": null,
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [],
+            "available_slots": {
+                "2026-03-22 12:00": 12,
+                "2026-03-22 14:00": 6,
+                "2026-03-22 18:00": 0,
+                "2026-03-22 20:00": 2,
+                "2026-03-22 21:00": 0,
+                "2026-03-23 10:30": 6,
+                "2026-03-23 19:00": 4,
+                "2026-03-24 08:00": 8,
+                "2026-03-24 17:00": 0,
+                "2026-03-24 18:30": 10,
+                "2026-03-24 19:00": 10,
+                "2026-03-24 21:00": 8,
+                "2026-03-25 08:00": 4,
+                "2026-03-25 12:00": 8,
+                "2026-03-25 12:30": 8,
+                "2026-03-25 17:00": 4,
+                "2026-03-25 19:30": 0,
+                "2026-03-26 12:00": 4,
+                "2026-03-26 13:00": 10,
+                "2026-03-26 20:00": 2,
+                "2026-03-26 20:30": 4
+            }
+        },
+        "ChIJyebxiCauEmsR8UgJKyW1xGE": {
+            "place_id": "ChIJyebxiCauEmsR8UgJKyW1xGE",
+            "name": "Australian Broadcasting Corporation",
+            "location": {
+                "lat": -33.8825292,
+                "lng": 151.2015539
+            },
+            "address": "700 Harris St, Ultimo NSW 2007, Australia",
+            "types": [
+                "television_studio",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.4,
+            "user_rating_count": 475,
+            "price_level": 1,
+            "website_url": "https://www.abc.net.au/",
+            "phone_number": "(02) 8333 1500",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 9:00 AM – 6:00 PM",
+                    "Tuesday: 9:00 AM – 6:00 PM",
+                    "Wednesday: 9:00 AM – 6:00 PM",
+                    "Thursday: 9:00 AM – 6:00 PM",
+                    "Friday: 9:00 AM – 6:00 PM",
+                    "Saturday: 10:00 AM – 4:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 1,
+                    "text": "To whom it may concern,\n\nI’m writing as an Australian taxpayer who has, until now, assumed the ABC existed to serve all Australians — not to lecture, divide, or quietly drift away from the principles it claims to uphold.\n\nWhat concerns me most is not a single program or presenter, but the systemic failure of governance that allows this organisation to continue on its current path while senior leadership is rewarded with remuneration reportedly in the order of $1.5 million per year.\n\nThat figure alone should demand excellence, balance, and restraint. Instead, what many Australians are seeing is content that feels increasingly ideological, racially charged, openly hostile toward allied nations such as the United States, and consistently sympathetic to one side of highly complex international conflicts — all while fuelling division at home.\n\nThe irony is hard to ignore.\n\nThe ABC regularly positions itself as a moral and intellectual authority, yet appears unwilling to apply the same scrutiny inward — particularly to its board and executive leadership, who ultimately set the tone, priorities, and culture of what is commissioned, promoted, and defended.\n\nThis is not a call for censorship.\nIt is a call for accountability.\n\nIf the ABC truly values independence and trust, then the board — not just the Managing Director — should be asking itself some uncomfortable questions:\n•\tWhy does so much content feel narrow rather than representative?\n•\tWhy do so many Australians feel spoken at instead of spoken for?\n•\tAnd why is there such a disconnect between executive pay and public confidence?\n\nAustralians are not stupid.\nWe notice patterns.\nWe notice omissions.\nAnd increasingly, we notice when an organisation funded by the public no longer seems answerable to it.\n\nIf this feedback makes those responsible uncomfortable, that may be a sign it has landed exactly where it should.",
+                    "time": "2026-01-25T21:27:07.104686880Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "Through the kind arrangement of one of the producers at ABC, our  Fusion Culture Group was granted a \"tour\" of the  ground floor hall  of the ABC Ultimo building to see our 12 meter x 13 meter collaborative food mural.  It was chosen for a solo exhibition for the month of  November,  and then another month in their Parramata premises,  but it did not eventuate for some unknown reason.  Nonetheless, our November visit was fun, educational, and meaningful.  First, our non-English speaking seniors  learned  to do digital check-in in English for entering the building, and they did it successfully.\nSecond, everybody was excited and happy to be able to take photos in front of the 7 pm live ABC News broadcasting studio, which was a rare opportunity. Third, we saw our FCG Mural being showcased  in a beautiful  space, especially created for it.  It made us all feel proud and a sense of achievement.  Our FCG Mural was created together by the  seniors over three art workshops led by a uni art student in July/August.\nWe are grateful to ABC for showcasing our FCG Mural and for providing us the opportunity to visit its Ultimo premises. The  photos and video clips shared show that our short visit was well received and very much appreciated by the seniors.\nWe hope that ABC will continue  its community involvement and support for a good cause. We look forward to future collaborations for mutual benefits and support.\nThank you, ABC!\n\nSylvia\naka Little Frog\nFounder and Director\nFusion Culturel Group\n9 December, 2024",
+                    "time": "2024-12-08T16:20:21.137866Z"
+                },
+                {
+                    "rating": 2,
+                    "text": "A B C has been great for many years especially the gardening program. Recently though the section on individual gardens near end of program has not been focused on individual gardens but more on the individual themselves. We need to bring back the focus on gardening not individuals life story. If one wants to see individual life then \"who do you think you are\" is the program they should be on.\nThanks\nTrev",
+                    "time": "2025-07-12T20:37:13.990433912Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 10:30": 4,
+                "2026-03-22 17:00": 10,
+                "2026-03-22 19:00": 4,
+                "2026-03-22 19:30": 2,
+                "2026-03-22 20:30": 4,
+                "2026-03-23 14:00": 2,
+                "2026-03-23 17:00": 0,
+                "2026-03-23 21:00": 0,
+                "2026-03-24 12:30": 10,
+                "2026-03-24 18:30": 6
+            }
+        },
+        "ChIJs-Q2IlNd1moR4UGlA6wroOE": {
+            "place_id": "ChIJs-Q2IlNd1moR4UGlA6wroOE",
+            "name": "Baci",
+            "location": {
+                "lat": -37.822644499999996,
+                "lng": 144.9585245
+            },
+            "address": "Crown Riverwalk, Crown Melbourne, 21/8 Whiteman St, Southbank VIC 3006, Australia",
+            "types": [
+                "cafe",
+                "breakfast_restaurant",
+                "dessert_restaurant",
+                "food_store",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 3.1,
+            "user_rating_count": 1353,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "https://www.bacirestaurant.com.au/",
+            "phone_number": "(03) 9682 0588",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": true
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Stopped here for a late breakfast on a brief visit to the Crown precinct.  Coffee was great and the omelette delicious.  Convenient location within the Crown complex - offers indoor & outdoor seating alongside the Yarra Riverwalk.  Option to order and pay via my mobile device was very convenient.  Coffee and food didn’t take long to come out.  This cafe is a good option if you want to avoid the noise & chaos of the foodcourt area.",
+                    "time": "2026-01-10T05:13:11.856249332Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Great service, fast service time, atmosphere is nice with indoor or outdoor seating. The food was delicious and reasonably priced. We sat in a booth which was comfortable.",
+                    "time": "2026-03-04T01:27:14.740797386Z"
+                },
+                {
+                    "rating": 4,
+                    "text": "The location by the river at the Crown Hotel is lovely. The staff member who served us was kind and attentive, and the coffee was very good. Unfortunately, the cleanliness let the place down: the tables looked dirty and the floor did not appear clean either.",
+                    "time": "2026-01-12T13:05:00.927644026Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 18:30": 6,
+                "2026-03-22 19:00": 8,
+                "2026-03-22 19:30": 8,
+                "2026-03-23 09:00": 10,
+                "2026-03-23 18:00": 6,
+                "2026-03-23 19:00": 4
+            }
+        },
+        "ChIJjQLxXzVd1moRm6Cg5UkgViI": {
+            "place_id": "ChIJjQLxXzVd1moRm6Cg5UkgViI",
+            "name": "Brick Lane Melbourne",
+            "location": {
+                "lat": -37.8113938,
+                "lng": 144.9598114
+            },
+            "address": "33 Guildford Ln, Melbourne VIC 3000, Australia",
+            "types": [
+                "cafe",
+                "breakfast_restaurant",
+                "food_store",
+                "brunch_restaurant",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.4,
+            "user_rating_count": 2669,
+            "price_level": "PRICE_LEVEL_MODERATE",
+            "website_url": "http://thebricklane.com.au/",
+            "phone_number": "0416 198 743",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 7:30 AM – 2:30 PM",
+                    "Tuesday: 7:30 AM – 2:30 PM",
+                    "Wednesday: 7:30 AM – 2:30 PM",
+                    "Thursday: 7:30 AM – 2:30 PM",
+                    "Friday: 7:30 AM – 2:30 PM",
+                    "Saturday: 8:00 AM – 2:30 PM",
+                    "Sunday: 8:00 AM – 2:30 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": true,
+                "servesVegetarianFood": true,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Had brunch at Brick Lane and really enjoyed it.\nThe corn waffle was crispy on the outside, soft inside, with a nice natural sweetness — not heavy at all. The omelette was light, fluffy, and cooked perfectly. Simple menu items but done really well.\n\nWhat stood out the most was the staff. Super friendly, energetic, and you can tell they work really well together. Even though it was busy, service was fast and everyone stayed cheerful, which made the whole place feel lively and welcoming.\n\nGreat vibe, good food, and a solid team. Would happily come back for brunch again💕",
+                    "time": "2026-01-31T00:52:54.280941395Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Brick Lane Melbourne\n\n🔹 Atmosphere\nLocated down a small laneway near the main road, you need to walk in to find it, so it might take a moment to spot. It’s about a 7 minute walk from the State Library of Victoria, which makes it quite convenient. The indoor seating is slightly crowded, but the overall vibe is cosy. The restroom is fairly clean.\n\n🔷 Food\n\n🔹 Bacon & Gluten Free Toast with Avocado\nI swapped the waffle for gluten free toast with avocado. The bacon was very good, cooked just right. The blueberry sauce was also delicious. The sweetness of the blueberries and the creaminess of the avocado balanced the saltiness of the bacon nicely. Together with the toast, it was a well balanced combination.\n\n🔹 Big Brekkie Platter with Cauliflower Rice\nI added cauliflower rice to the big brekkie platter. Overall, it was quite good and satisfying.\n\n🔹 Chocolate Milk\nA classic chocolate milk, smooth and rich in flavour.\n\n🔸 Summary\nA breakfast spot I would return to. So far, what I’ve ordered has been a safe choice. You’re unlikely to go wrong here",
+                    "time": "2026-02-21T05:06:57.673626044Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "A perfect fit into the eclectic Guildford Lane of Melbourne, this cafe offers a yummy menu in an excellent ambience. It is perfect for a team lunch on a work day or a weekend brunch outing. We were lucky to get a table on a Wednesday at 12:45 pm but we could see spaces fill up very quickly, so bookings are recommended if you are a big group. The comedian/actor Dilruk Jayasinghe came to eat at the same place so we know it attracts famous people as well! haha\nThere's outside seating available as well, for single diners and small groups.\nThe open kitchen adds to the open vibe of the place. There's choctops available too to fulfil your sweet tooth cravings!\nIt was the first time for me eating savoury waffles and omg they were so good! They are happy to eliminate the poached eggs from the dish if you want to. My friend got the smashed avo which was great as well!",
+                    "time": "2026-01-20T00:43:56.045319947Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 12:30": 6,
+                "2026-03-22 18:00": 6,
+                "2026-03-22 18:30": 2,
+                "2026-03-23 09:00": 6,
+                "2026-03-23 20:00": 8
+            }
+        },
+        "ChIJ8TlgJUpd1moRYOb0CXZWBB0": {
+            "place_id": "ChIJ8TlgJUpd1moRYOb0CXZWBB0",
+            "name": "Flagstaff",
+            "location": {
+                "lat": -37.812185400000004,
+                "lng": 144.9564038
+            },
+            "address": "Melbourne VIC 3000, Australia",
+            "types": [
+                "train_station",
+                "transit_station",
+                "transportation_service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.1,
+            "user_rating_count": 122,
+            "price_level": 1,
+            "website_url": "http://ptv.vic.gov.au/",
+            "phone_number": "(03) 9610 5855",
+            "business_status": "OPERATIONAL",
+            "opening_hours": null,
+            "accessibility": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "A lot of memories on flagstaff station ✨️\n\nLittle history:\nFlagstaff Station, opened in 1985, is part of Melbourne’s City Loop and serves the western end of the CBD. Named after nearby Flagstaff Gardens, the station was Melbourne’s last underground station built. It plays a key role in connecting the city's bustling business district.",
+                    "time": "2024-09-18T01:57:53.765805Z"
+                },
+                {
+                    "rating": 3,
+                    "text": "Pretty old antique no charging cable or top shelf machine even cost of mkyi 300$+ boggles mind when other states have free transport",
+                    "time": "2025-02-13T01:03:18.373876Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "Wooden framing looks amazing for photos 😅 great place right in the heart of the city",
+                    "time": "2021-03-13T01:36:33.581018Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 10:30": 6,
+                "2026-03-22 18:00": 0,
+                "2026-03-22 20:30": 6,
+                "2026-03-23 09:00": 10,
+                "2026-03-23 19:00": 8,
+                "2026-03-24 10:30": 2,
+                "2026-03-24 17:00": 2,
+                "2026-03-24 17:30": 10
+            }
+        },
+        "ChIJ8xA6hdNC1moRiYUJvAuyh7Y": {
+            "place_id": "ChIJ8xA6hdNC1moRiYUJvAuyh7Y",
+            "name": "The Royal Dental Hospital of Melbourne",
+            "location": {
+                "lat": -37.7994383,
+                "lng": 144.96484039999999
+            },
+            "address": "720 Swanston St, Carlton VIC 3053, Australia",
+            "types": [
+                "hospital",
+                "health",
+                "service",
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.1,
+            "user_rating_count": 1395,
+            "price_level": 1,
+            "website_url": "https://www.rdhm.org.au/",
+            "phone_number": "(03) 9341 1000",
+            "business_status": "OPERATIONAL",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": [
+                    "Monday: 8:30 AM – 5:00 PM",
+                    "Tuesday: 8:30 AM – 5:00 PM",
+                    "Wednesday: 8:30 AM – 5:00 PM",
+                    "Thursday: 8:30 AM – 5:00 PM",
+                    "Friday: 8:30 AM – 5:00 PM",
+                    "Saturday: 8:30 AM – 6:00 PM",
+                    "Sunday: 8:30 AM – 6:00 PM"
+                ]
+            },
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "The emergency clinic is an absolute God send.\n\nUnderstandably the hold time when calling is long but it is a much needed service. I was given an appointment within two days.\n\nAll staff i interacted with were so patient and kind, especially when I couldn't think straight with my tooth pain.\n\nI have a shocking memory when it comes to names but my dentist and his assistant were amazing. Great bedside manner, knowledgeable and patient. My tooth extraction went incredibly well.\n\nI can't give this clinic enough praise.\n\nThe parking garages were completely full but was able to find on-street parking relatively easily. 2 hours for $8. There is also a tram stop not far from the entry.",
+                    "time": "2026-03-07T07:07:08.258432122Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "I had an excellent experience  with doctor Laura Raguine, at Royal Dental Hospital. Have re-done my root canal. Laura was professional, extremely kind , and took the time to explain everything clearly, which made me feel comfortable and confident throughout each my visit. The clinic was clean,and very well organised. The staff were friendly and welcoming from start to finish. I truly appreciate the care and attention I received and would highly recommend doctor Laura to anyone. Her kindness and service definitely 10/10. Thank you for everything doctor Laura.",
+                    "time": "2026-02-15T10:58:21.249514977Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "To the Doctor, Nurse, and Staff at the Royal Dental Hospital,I would like to sincerely thank you all for the care and kindness you showed me during my recent visit. I had been in significant pain for several days, and your professionalism, compassion, and reassurance made a difficult experience much easier. I truly appreciate the way the extraction was handled and the support I received throughout. Thank you for the excellent care and for the important work you do every day.",
+                    "time": "2026-01-04T04:37:16.889089250Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 09:00": 2,
+                "2026-03-22 12:30": 2,
+                "2026-03-22 14:00": 8,
+                "2026-03-22 17:00": 8,
+                "2026-03-23 17:00": 0,
+                "2026-03-23 17:30": 8,
+                "2026-03-23 18:00": 8,
+                "2026-03-23 18:30": 0,
+                "2026-03-24 10:30": 2,
+                "2026-03-24 12:00": 12,
+                "2026-03-24 14:00": 8,
+                "2026-03-24 19:00": 10,
+                "2026-03-24 20:30": 2,
+                "2026-03-25 09:00": 6,
+                "2026-03-25 12:00": 6,
+                "2026-03-25 14:00": 2,
+                "2026-03-25 19:00": 4,
+                "2026-03-25 21:00": 2
+            }
+        },
+        "ChIJseLBBeurNTERUHBT0wbEc9U": {
+            "place_id": "ChIJseLBBeurNTERUHBT0wbEc9U",
+            "name": "Government Guest House (Tonkin Palace)",
+            "location": {
+                "lat": 21.0266616,
+                "lng": 105.8553955
+            },
+            "address": "12 P. Ngô Quyền, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "rating": 4.4,
+            "user_rating_count": 223,
+            "price_level": 1,
+            "website_url": "http://nhakhachchinhphu.gov.vn/",
+            "phone_number": "024 3825 5853",
+            "business_status": "OPERATIONAL",
+            "opening_hours": null,
+            "accessibility": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true
+            },
+            "amenities": {
+                "allowsDogs": false,
+                "goodForChildren": false,
+                "servesVegetarianFood": false,
+                "outdoorSeating": false
+            },
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Palace is under reconstruction at the moment, but looks nice",
+                    "time": "2026-01-20T13:22:26.972725601Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "You can venture around the old-quarter and Hoan Kiem quite easily from this place. FYI, there is an imcredible coffee house/ restaurant and a historical landmark nearby. The old French building symbolizes the independence of the colony of Vietnam in 1945.",
+                    "time": "2019-05-15T14:44:33.838778046Z"
+                },
+                {
+                    "rating": 5,
+                    "text": "The State Guest House (Vietnamese: Nhà khách Chính phủ) is a historical monument in Hoàn Kiếm District, Hanoi, Vietnam. It is presently used as a state guest house.\n\nThe building is representative of French Colonial architecture in French Indochina. It formerly was the residential palace of the Tonkin Governor (French: Le Palais du Résident Supérieur du Tonkin, Vietnamese: Dinh Thống Sứ Bắc Kỳ), built between 1918 and 1919 to house the French Governor of Tonkin. It was later renamed the Tonkin Palace (Vietnamese: Bắc Bộ Phủ) when the Viet Minh took over northern Vietnam.",
+                    "time": "2021-10-05T04:55:12.262386Z"
+                }
+            ],
+            "available_slots": {
+                "2026-03-22 18:30": 10,
+                "2026-03-22 21:00": 2,
+                "2026-03-23 12:00": 6,
+                "2026-03-23 12:30": 6,
+                "2026-03-23 18:30": 6,
+                "2026-03-23 20:30": 4,
+                "2026-03-23 21:00": 4,
+                "2026-03-24 08:00": 10,
+                "2026-03-24 12:30": 6,
+                "2026-03-24 20:30": 6,
+                "2026-03-25 08:00": 6,
+                "2026-03-25 18:30": 0,
+                "2026-03-25 19:00": 10,
+                "2026-03-25 19:30": 8,
+                "2026-03-26 09:00": 10,
+                "2026-03-26 12:30": 6,
+                "2026-03-26 18:00": 0,
+                "2026-03-26 20:30": 4
+            }
+        }
+    },
+    "webpages": {
+        "https://all.accor.com/hotel/B983/index.en.shtml": {
+            "url": "https://all.accor.com/hotel/B983/index.en.shtml",
+            "title": "Distrikt Press Cafe",
+            "content_markdown": "Title: Mercure Melbourne Southbank\n\nURL Source: https://all.accor.com/hotel/B983/index.en.shtml\n\nMarkdown Content:\n# Mercure Melbourne Southbank - ALL\n\n*   [Skip to main content](https://all.accor.com/hotel/B983/index.en.shtml#main)\n\nMIDDLE EAST TRAVEL UPDATE:Eased cancellation & booking flexibility.\n\n[View conditions](https://all.accor.com/a/en/information/middle-east-travel-update.html)\n\n[](https://all.accor.com/)\n\n*   Stay\n\n Back  \n\n    *   [Find a hotel](https://all.accor.com/gb/booking/advanced-search.shtml)\n    *   [Resorts](https://resorts.accor.com/)\n    *   [Sustainable travel](https://all.accor.com/a/en/sustainability.html)\n    *   [Flight + Hotel](https://www.allholidays.uk/)\n    *   [Our brands](https://all.accor.com/a/en/brands.html)\n    *   [A room during the day](https://all.accor.com/a/en/offers/room-for-a-day.html)\n\n TRAVEL INSPIRATIONS \n    *   [Magazine](https://all.accor.com/a/en/limitless.html)\n    *   [New Openings](https://all.accor.com/a/en/experiences/ena-new-openings.html)\n    *   [Destinations of the month](https://all.accor.com/a/en/experiences/ena-destinations-of-the-month.html)\n    *   [Family trips](https://all.accor.com/a/en/experiences/ena-all-for-family.html)\n    *   [See more](https://all.accor.com/a/en/limitless/thematics.html)\n\n HOTELS BY DESTINATION \n    *   [London](https://all.accor.com/a/en/destination/city/hotels-london-v2352.html)\n    *   [Edinburgh](https://all.accor.com/a/en/destination/city/hotels-edinburgh-v1175.html)\n    *   [Manchester](https://all.accor.com/a/en/destination/city/hotels-manchester-v2446.html)\n    *   [Liverpool](https://all.accor.com/a/en/destination/city/hotels-liverpool-v2327.html)\n    *   [See all destinations](https://all.accor.com/a/en/destination/world/hotels.html)\n\n![Image 30: ALL Accor+ ibis card](blob:http://localhost/2c3edff890f6647df454c8098d412bf3)\n\n**Book your Flight + Hotel**\n\nPlanning your holiday just got easier\n\n[Find out more](https://www.allholidays.uk/)\n\n![Image 31: ALL Accor+ ibis card](blob:http://localhost/2c3edff890f6647df454c8098d412bf3)\n\n**All you have to do is relax**\n\nRelax. Unwind. De-stress. Repeat.\n\n[Explore our resorts](https://resorts.accor.com/en/northern-europe/home.html)\n\n*   Loyalty programme\n\n Back  \n\n    *   [Discover the programme](https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml)\n    *   [Benefits and status](https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml)\n    *   [Earn and redeem points](https://all.accor.com/loyalty-program/earn-and-use/index.en.shtml)\n    *   [ALL Accor+ Subscriptions](https://all.accor.com/a/en/loyalty-program/subscription-hub.html)\n\n![Image 32: ALL Accor+ ibis card](blob:http://localhost/2c3edff890f6647df454c8098d412bf3)\n\n**ALL Accor+ Voyager**\n\n**15% OFF all year round** on your stays in +**30 brands**\n\n[Discover Now](https://all.accor.com/loyalty-program/all-plus/index.en.shtml)\n\n![Image 33: ALL Accor+ ibis card](blob:http://localhost/2c3edff890f6647df454c8098d412bf3)\n\n**ALL Accor+ ibis**\n\n**15% discount all year round** in ibis brands\n\n[Discover Now](https://all.accor.com/loyalty-program/all-plus/index.en.shtml)\n\n*   [Deals](https://all.accor.com/a/en/deals-corner.html) Back    \n*   [Our partners](https://all.accor.com/loyalty-program/partners/index.en.shtml) Back    \n*   [Activities](https://all.accor.com/a/en/loyalty-program/activities-and-events.html) Back    \n*   Meeting & Events\n\n Back  \n\n    *   [Tailored events](https://meetings.accor.com/united-kingdom/index.en.shtml)\n    *   [Loyalty programme benefits](https://permalink.accor.com/loyalty-program/meetings-and-events?client=allheader)\n    *   [Private events](https://meetings.accor.com/our-event-types/private_events/index.en.shtml)\n\n MORE EVENT TYPES \n    *   [Hybrid Meetings](https://meetings.accor.com/promotions-offers/hybrid-meetings.en.shtml)\n    *   [Training sessions](https://meetings.accor.com/our-event-types/training_session/index.en.shtml)\n    *   [Seminars](https://meetings.acc"
+        },
+        "http://www.southyarrachurch.org/": {
+            "url": "http://www.southyarrachurch.org/",
+            "title": "South Yarra Presbyterian Church",
+            "content_markdown": "Title: South Yarra Presbyterian Church\n\nURL Source: http://www.southyarrachurch.org/\n\nMarkdown Content:\n# South Yarra Presbyterian Church - “As for me and my house, we will serve the Lord” Joshua 24:15\n\n[South Yarra Presbyterian Church](https://www.southyarrachurch.org/)\n\n*   [About Us](https://www.southyarrachurch.org/who-are-we/)\n    *   [About Us](https://www.southyarrachurch.org/who-are-we/)\n    *   [Ministry Team](https://www.southyarrachurch.org/church-session/)\n    *   [Our Beliefs](https://www.southyarrachurch.org/our-beliefs/)\n        *   [Intentionally Biblical, Confessional, Presbyterian and Reformed](https://www.southyarrachurch.org/our-beliefs/intentionally-biblical-confessional-presbyterian-and-reformed/)\n\n    *   [Plan Your Visit](https://www.southyarrachurch.org/locations/our-location/)\n    *   [Sundays at SYPC](https://www.southyarrachurch.org/who-are-we/sundays-at-sypc/)\n    *   [Giving](https://www.southyarrachurch.org/giving/)\n\n*   [Sermons](https://www.southyarrachurch.org/sermon-archive/sermon-series/)\n    *   [Archives](https://www.southyarrachurch.org/sermon-archive)\n    *   [Books](https://www.southyarrachurch.org/sermon-archive/books/)\n    *   [Easy English Service](https://www.southyarrachurch.org/sermon-series/easy-english-church/)\n    *   [Series](https://www.southyarrachurch.org/sermon-archive/sermon-series/)\n    *   [Speakers](https://www.southyarrachurch.org/sermon-archive/speakers/)\n\n*   [All Events](https://www.southyarrachurch.org/events/)\n*   [Ministries](http://www.southyarrachurch.org/)\n    *   [Bible Studies](https://www.southyarrachurch.org/events/community-fellowship-group/)\n    *   [Free English Classes](https://www.southyarrachurch.org/ministries/esl-ministry/)\n    *   [Affiliated Ministries](https://www.southyarrachurch.org/orbus-in-malawi/)\n\n*   [Resources](https://www.southyarrachurch.org/resources/)\n*   [Contact](https://www.southyarrachurch.org/contact-us/)\n*   [Vacancy](https://www.southyarrachurch.org/minister-for-sypc/)\n\nSearch [](http://www.southyarrachurch.org/# \"Search\")\n\n[](http://www.southyarrachurch.org/# \"Close Search\")\n\n[](http://www.southyarrachurch.org/# \"Open Search\")\n\n# Welcome to SYPC\n\nCome join us for worship this **Sunday at 10.30am.**\n\n*   [What is Christian ity?](https://twowaystolive.com/)\n*   [What to expect](https://www.southyarrachurch.org/who-are-we/sundays-at-sypc/)\n*   [Latest sermons](https://www.southyarrachurch.org/sermon-archive/)\n\n## Sermons\n\n*   [Browse by speaker](https://www.southyarrachurch.org/sermon-archive/speakers/)\n*   [Browse by series](https://www.southyarrachurch.org/sermon-archive/sermon-series/)\n*   [Browse by book](https://www.southyarrachurch.org/sermon-archive/books/)\n\n## Latest Sermons\n\n### [The King Arrives](https://www.southyarrachurch.org/sermons/the-king-arrives/ \"The King Arrives\")\n\n*   Today\n*   [Justin Ang](https://www.southyarrachurch.org/sermon-speaker/justin-ang/)\n*   [Luke](https://www.southyarrachurch.org/sermon-book/luke/)\n*       *   [](https://www.southyarrachurch.org/sermons/the-king-arrives/?player=video \"Watch Video\")\n    *   [](https://www.southyarrachurch.org/sermons/the-king-arrives/?player=audio \"Listen to Audio\")\n\n Morning Service Bible Readings [Zechariah 9:9](https://ref.ly/Zech%209.9;nkjv?t=biblia)[Luke 19:28-20:19](https://ref.ly/Luke%2019.28-20.19;nkjv?t=biblia)\n\n[![Image 1](https://www.southyarrachurch.org/wp-content/uploads/2025/02/2-800x200.png)](https://www.southyarrachurch.org/sermons/the-king-draws-near-luke-191-27/ \"The King Draws Near (Luke 19:1-27)\")\n\n### [The King Draws Near (Luke 19:1-27)](https://www.southyarrachurch.org/sermons/the-king-draws-near-luke-191-27/ \"The King Draws Near (Luke 19:1-27)\")\n\n*   March 15, 2026\n*   [Justin Ang](https://www.southyarrachurch.org/sermon-speaker/justin-ang/)\n*   [Luke](https://www.southyarrachurch.org/sermon-book/luke/)\n*       *   [](https://www.southyarrachurch.org/sermons/the-king-draws-near-luke-191-27/?player=video \"Watch Video\")\n    *   [](https://w"
+        },
+        "https://darlingcafe.com.au/": {
+            "url": "https://darlingcafe.com.au/",
+            "title": "Darling Cafe",
+            "content_markdown": "Title: Darling Cafe – Coffee & Brunch in South Yarra, Melbourne\n\nURL Source: https://darlingcafe.com.au/\n\nMarkdown Content:\n# Darling Cafe – Coffee & Brunch in South Yarra, Melbourne\n[Book](https://www.sevenrooms.com/explore/darlingcafe/reservations/create/search)\n\n![Image 1: Darling Cafe](https://darlingcafe.com.au/darling-cafe-assets/dc-darling-text.png)\n\n![Image 2](https://darlingcafe.com.au/darling-cafe-assets/dc-ox-symbol.png)\n\n[Book a Table](https://www.sevenrooms.com/explore/darlingcafe/reservations/create/search)[View Menu](https://darlingcafe.com.au/darling-cafe-menu.pdf)\n\n![Image 3](https://darlingcafe.com.au/darling-cafe-assets/collage-1.jpg)![Image 4](https://darlingcafe.com.au/darling-cafe-assets/collage-2.jpg)![Image 5](https://darlingcafe.com.au/darling-cafe-assets/collage-3.jpg)![Image 6](https://darlingcafe.com.au/darling-cafe-assets/collage-4.jpg)![Image 7](https://darlingcafe.com.au/darling-cafe-assets/collage-5.jpg)![Image 8](https://darlingcafe.com.au/darling-cafe-assets/collage-6.jpg)![Image 9](https://darlingcafe.com.au/darling-cafe-assets/collage-7.jpg)![Image 10](https://darlingcafe.com.au/darling-cafe-assets/collage-8.jpg)![Image 11](https://darlingcafe.com.au/darling-cafe-assets/collage-9.jpg)![Image 12](https://darlingcafe.com.au/darling-cafe-assets/collage-10.jpg)![Image 13](https://darlingcafe.com.au/darling-cafe-assets/collage-11.jpg)\n\n![Image 14: Brewed with Love – Darling Cafe](https://darlingcafe.com.au/darling-cafe-assets/dc-brewed-with-love.png)\n\n[![Image 15: Darling Cafe](https://darlingcafe.com.au/darling-cafe-assets/darling-monogram-cropped.png)](https://darlingcafe.com.au/darling-cafe-index.html)\n\n*   Mon – Sun\n\n7am – 4pm\n\n[2 Darling Street, South Yarra](https://maps.google.com/?q=2+Darling+Street+South+Yarra+VIC+3141)[info@darlingcafe.com.au](mailto:info@darlingcafe.com.au)[03 9820 9222](tel:+61398209222)\n\nSocials\n\n*   [](https://www.instagram.com/darlingcafe/)\n*   [](https://www.tiktok.com/@darling.group)\n\n[](https://darlinggroup.com.au/)\n\n*   [Cheri](https://cherieatery.com.au/)\n*   [Higher Ground](http://highergroundmelbourne.com.au/)\n*   [Terrace](https://theterrace.melbourne/)\n*   [Top Paddock](https://thetoppaddock.com/)\n*   [Kettle Black](https://thekettleblack.com.au/)\n*   [Token](https://tokenrestaurant.com.au/)\n*   [Darling](https://darlingcafe.com.au/)\n*   [Dundas & Faussett](https://dundasandfaussett.com.au/)\n*   [Bambu](https://eatbambu.com.au/)\n*   [Stringers](https://stringerssorrento.com.au/)\n*   [The Observatory](https://theobservatory.melbourne/)\n\n© 2026 Darling Group. All rights reserved.\n\n×[Book](https://www.sevenrooms.com/explore/darlingcafe/reservations/create/search)[Menu](https://darlingcafe.com.au/darling-cafe-menu.pdf)[Contact](https://darlingcafe.com.au/darling-cafe-contact.html)[Gift Vouchers](https://giftcards.nowbookit.com/cards/card-selection?accountid=aafe8fb5-2bd6-4d13-a045-1e53eb3ed4f4&venueid=11909&theme=light&accent=157,157,157)\n"
+        },
+        "https://www.freshwaterplace.com.au/": {
+            "url": "https://www.freshwaterplace.com.au/",
+            "title": "Freshwater Place",
+            "content_markdown": "Title: Home - Freshwater Place\n\nURL Source: https://www.freshwaterplace.com.au/\n\nMarkdown Content:\n## THERE'S NOTHING LIKE IT\n\n![Image 1: FWP Logo White](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/FWP-Logo-White-1.png)\n\n## OUR ETHOS\n\n![Image 2: Paint Splash 2](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-paintsplash_2.png)\n\nA PLACE TO COME HOME\n\nFreshwater Place truly embodies the essence of our symbolic place of home-coming. Not only does it boast an unrivaled location, but it also offers a distinctive and exceptional living experience. Residents of Freshwater Place enjoy the advantages of inner city living while relishing in a fulfilling and enriching lifestyle. The commitment to quality and the continual investment in maintaining the highest living standards for owners and residents further enhance the appeal of this remarkable place.\n\n![Image 3: Skyscrapers](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-01.jpg)\n\n## THE RESIDENCES\n\n![Image 4: The Residences](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-paintsplash_1.png)\n\nENDURING STYLE AND QUALITY\n\nDesigned by renowned architect Bates Smart, the residences at Freshwater Place define timeless sophistication and style, without compromising on everyday practicality.\n\n![Image 5: Living Room Area](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-02.jpg)\n\n![Image 6: Skyscraper](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-04b.jpg)\n\n## HEALTH & WELLNESS\n\n![Image 7: Paint Splash 4](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-paintsplash_4.png)\n\nRESORT-STYLE AMENITIES FOR OPTIMAL WELLBEING\n\nWe believe that health and wellness are the well-spring of a life well lived. With pools, gyms and a private garden nested on the 10th floor, Freshwater Place provides a full suite of amenities for relaxation, rejuvenation and fitness.\n\n![Image 8](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-04.jpg)\n\n![Image 9: Indoor Pool](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-05-1.jpg)\n\n## SERVICES & SECURITY\n\n![Image 10: Paint Splash 2](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-paintsplash_2.png)\n\nRESIDENT-FIRST HOSPITALITY\n\nLife at Freshwater Place is characterised by tranquility, hospitality, and convenience. It is often described as a sanctuary nestled in the vibrant heart of Melbourne. Our dedicated and experienced concierge team is available round-the-clock, guaranteeing a secure environment and providing prompt assistance to residents whenever needed.\n\n![Image 11](https://www.freshwaterplace.com.au/wp-content/uploads/2023/08/p-home-freshwaterplace-06d.jpg)\n\n## OUR LOCATION\n\n![Image 12: The Residences](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-paintsplash_1.png)\n\nPRIME RIVERFRONT LIVING AT SOUTHBANK\n\nOur location is truly unique right on the Yarra at the junction of Southgate, Crown, the CBD and South Melbourne, with access to Melbourne’s iconic landmarks and transportation hubs in minutes.\n\n![Image 13](https://www.freshwaterplace.com.au/wp-content/uploads/2023/06/p-home-freshwaterplace-08.jpg)\n\nACKNOWLEDGMENT OF COUNTRY\n\nFreshwater Place stands on land that was an ancestral river crossing point and meeting place. We respectfully acknowledge the Traditional Owners of the land – the Wurundjeri and Bunurong peoples of the Eastern Kulin – and their connection to land and water. We pay our respect to their Elders, past, present and emerging.\n"
+        },
+        "http://www.belgianbeercafemelbourne.com.au/": {
+            "url": "http://www.belgianbeercafemelbourne.com.au/",
+            "title": "Belgian Beer Cafe",
+            "content_markdown": "Title: Belgian Beer Cafe Melbourne | Belgian Beer in Melbourne | 5 Riverside Quay, Southbank VIC, Australia\n\nURL Source: http://www.belgianbeercafemelbourne.com.au/\n\nMarkdown Content:\n## Welcome to Belgian Beer Cafe Melbourne\n\nAt Belgian Beer Cafe Melbourne - a family-owned and operated business - we pride ourselves on offering an extensive selection of beers from around the world. Our tap beer and bottle menu includes classic Belgian styles like Trappist, Dubbels, Tripels, and Saisons, as well as local and other international brews. We also serve an excellent selection of wines and cocktails, so there is definitely something for everyone. Come in for lunch, dinner, or just drinks. We're open 7 days a week.\n\nHappenings\n\nFunctions / Events\n\n## FUNCTIONS & EVENTS\n\nTurn Event Stress into Event Success\n\n![Image 1: Beer with friends](https://static.wixstatic.com/media/b09fa5_d1a4d1b0ab554de7ba2e5e9a3579c012~mv2.jpeg/v1/crop/x_132,y_0,w_336,h_336/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/100BB2FF-703F-40A2-B3E8-52395DA69654_4_5005_c.jpeg)\n\n### GATHERINGS\n\nA birthday party? A going-away party? A promotion party? A large family gathering?Need a dedicated area? Need food and drinks? We can do it all!\n\n![Image 2: Friendly get togethers](https://static.wixstatic.com/media/b09fa5_bebf171022ca4d33aa3fc0ea2e17b178~mv2.jpg/v1/crop/x_171,y_0,w_683,h_683/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/64A49FDC-D7EF-4C9C-A48C-1AE15BF7E5E2_edi.jpg)\n\n### COCKTAIL PARTY\n\nWhether you have in mind a cocktail soirée with a completely customisable menu of delectable canapés or an open tab session with a variety of delicious finger-food platters, we can cater for up to 300 people and suit every occasion.\n\n![Image 3: Corporate lunches or Dinners](https://static.wixstatic.com/media/b09fa5_f2751d8304cb4678aeb5ab64fe14a3bb~mv2.jpeg/v1/crop/x_420,y_0,w_1080,h_1080/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/F6DACF4E-DF2C-4F91-AB67-BC7324A72849.jpeg)\n\n### DINNER PARTIES\n\nIf you need to feed a group of hungry colleagues for lunch in a hurry, talk to us about pre-ordering. It's stress-free and inexpensive.\n\nOtherwise, we can cater a sit-down lunch or dinner for up to 120 guests with a wide assortment of menus.\n\n![Image 4: Corporate Gatherings](https://static.wixstatic.com/media/b09fa5_60a0917398054a7ab43aae0ce489e1df~mv2.jpeg/v1/crop/x_74,y_0,w_163,h_163/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/28518312-839F-409C-BB2D-9F994D04E61A_4_5005_c.jpeg)\n\n### Corporate\n\nWhether you're organising a meeting, a symposium, a company, a dinner, or cocktail party, we'll help you get it right.\n\nWhen you need to set up an industry networking gathering or nail a presentation to a large group of potential clients: let us assist you in fine-tuning it and hitting the right note.\n\n### Function Enquiry Form\n\n![Image 5: Fresh Yumbah Mussels](https://static.wixstatic.com/media/b09fa5_962a8024b6a54993940d5394e8812676~mv2.png/v1/fill/w_412,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/FreshMussels.png)\n\n[![Image 6: Yumbah Aquiculture is the best](https://static.wixstatic.com/media/b09fa5_87376b93bc7c4b81904276730688cdb2~mv2.jpg/v1/fill/w_159,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yumbah.jpg)](https://yumbah.com/company/locations/)\n\nBelgian Beer Café is proud to partner with [Yumbah Sea Farms](https://yumbah.com/company/locations/) to deliver the highest quality mussels to our guests.\n\n![Image 7: Stella is an awesome Belgian Beer](https://static.wixstatic.com/media/b09fa5_f93a7f25067f44db82afefab7442328e~mv2.jpg/v1/fill/w_412,h_296,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Stella_Promo_edited.jpg)\n\n## Location & Hours\n\nBelgian Beer Cafe Melbourne\n\nis located at 5 Riverside Quay, Southbank, Melbourne.\n\nWe are open every day from\n\n12pm until late. Come and visit us for lunch, dinner, or drinks.\n\nFollow us on [Untappd](https://untappd.com/v/belgian-beer-cafe"
+        },
+        "https://marrinergroup.com.au/shows?venue=comedy-theatre": {
+            "url": "https://marrinergroup.com.au/shows?venue=comedy-theatre",
+            "title": "Comedy Theatre",
+            "content_markdown": "Title: Shows & Tickets | Marriner Group\n\nURL Source: https://marrinergroup.com.au/shows?venue=comedy-theatre\n\nMarkdown Content:\n# Shows & Tickets | Marriner Group\n\n[![Image 2: Marriner Group](https://marrinergroup.com.au/img/logo.png)](https://marrinergroup.com.au/ \"Marriner Group\")\n*   [Shows & Tickets](https://marrinergroup.com.au/shows)\n\n    *   [What's On](https://marrinergroup.com.au/whats-on)\n    *   [Premium Hospitality Experiences](https://marrinergroup.com.au/packages)\n    *   [Group Bookings](https://marrinergroup.com.au/groups)\n    *   [School Bookings](https://marrinergroup.com.au/schools)\n    *   [Accessible Performances](https://marrinergroup.com.au/accessible-performances)\n    *   [Gift Vouchers](https://marrinergroup.com.au/gift-vouchers)\n\n*   [Visiting](https://marrinergroup.com.au/visiting)\n\n    *   [Princess Theatre](https://marrinergroup.com.au/princess-theatre)\n        *   [Ticketing](https://marrinergroup.com.au/princess-theatre-ticketing)\n        *   [Getting Here](https://marrinergroup.com.au/princess-theatre-getting-here)\n        *   [At The Theatre](https://marrinergroup.com.au/princess-theatre-at-the-theatre)\n        *   [Accessibility](https://marrinergroup.com.au/princess-theatre-accessibility)\n        *   [Theatre Hire](https://marrinergroup.com.au/princess-theatre-theatre-hire)\n        *   [Conditions of Entry](https://marrinergroup.com.au/princess-theatre-conditions-of-entry)\n        *   [Health & Safety](https://marrinergroup.com.au/princess-theatre-health-and-safety)\n        *   [History](https://marrinergroup.com.au/princess-theatre-history)\n\n    *   [Regent Theatre](https://marrinergroup.com.au/regent-theatre)\n        *   [Ticketing](https://marrinergroup.com.au/regent-theatre-ticketing)\n        *   [Getting Here](https://marrinergroup.com.au/regent-theatre-getting-here)\n        *   [At The Theatre](https://marrinergroup.com.au/regent-theatre-at-the-theatre)\n        *   [Accessibility](https://marrinergroup.com.au/regent-theatre-accessibility)\n        *   [Theatre Hire](https://marrinergroup.com.au/regent-theatre-theatre-hire)\n        *   [Conditions of Entry](https://marrinergroup.com.au/regent-theatre-conditions-of-entry)\n        *   [Health & Safety](https://marrinergroup.com.au/regent-theatre-health-and-safety)\n        *   [History](https://marrinergroup.com.au/regent-theatre-history)\n\n    *   [Comedy Theatre](https://marrinergroup.com.au/comedy-theatre)\n        *   [Ticketing](https://marrinergroup.com.au/comedy-theatre-ticketing)\n        *   [Getting Here](https://marrinergroup.com.au/comedy-theatre-getting-here)\n        *   [At The Theatre](https://marrinergroup.com.au/comedy-theatre-at-the-theatre)\n        *   [Accessibility](https://marrinergroup.com.au/comedy-theatre-accessibility)\n        *   [Theatre Hire](https://marrinergroup.com.au/comedy-theatre-theatre-hire)\n        *   [Conditions of Entry](https://marrinergroup.com.au/comedy-theatre-conditions-of-entry)\n        *   [Health & Safety](https://marrinergroup.com.au/comedy-theatre-health-and-safety)\n        *   [History](https://marrinergroup.com.au/comedy-theatre-history)\n\n    *   [Forum Melbourne](https://marrinergroup.com.au/forum-melbourne)\n        *   [Ticketing](https://marrinergroup.com.au/forum-melbourne-ticketing)\n        *   [Getting Here](https://marrinergroup.com.au/forum-melbourne-getting-here)\n        *   [At the Venue](https://marrinergroup.com.au/forum-melbourne-at-the-venue)\n        *   [Accessibility](https://marrinergroup.com.au/forum-melbourne-accessibility)\n        *   [Venue Hire](https://marrinergroup.com.au/venue-hire)\n        *   [Conditions of Entry](https://marrinergroup.com.au/forum-melbourne-conditions-of-entry)\n        *   [History](https://marrinergroup.com.au/forum-melbourne-history)\n\n    *   [Nearby Restaurants](https://marrinergroup.com.au/nearby-restaurants)\n\n*   [Event Venues](https://marrinergroup.com.au/events)\n\n    *   [Plaza Ballroom](https://marrinergroup.com.au/plaza-ballroom-events)\n  "
+        },
+        "https://www.kpos.com.au/amiri/index_table.php?tableno=996": {
+            "url": "https://www.kpos.com.au/amiri/index_table.php?tableno=996",
+            "title": "AMIRI CAFE",
+            "content_markdown": "Title: AMIRI - Order\n\nURL Source: https://www.kpos.com.au/amiri/index_table.php?tableno=996\n\nMarkdown Content:\n# AMIRI - Order\n\n[![Image 1: KPOS Logo](https://www.kpos.com.au/amiri/img/header_logo.png)](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n\nMenu\n\n*   [All](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Toasties Deal](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Cake](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Hot Dessert](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Dessert](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Brunch](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Dinner](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Small Dish](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Add On Side](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Coffee, Drinks, Tea](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Cold Drink](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Cocktails](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [Alcohol Drinks](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n\n![Image 2: arrow icon](https://www.kpos.com.au/order_svg/doublearrow-opened.svg)\n\n*   [![Image 3: image](https://www.kpos.com.au/img/allfood3.jpg) All](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 4](https://image.kpos-dev.com/amiri/imgdata/3026030605081.jpg) Toasties Deal 09:45 - 5pm](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 5](https://image.kpos-dev.com/amiri/imgdata/3025092303898.jpg) Cake](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 6](https://image.kpos-dev.com/amiri/imgdata/3024052001683.jpg) Hot Dessert](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 7](https://image.kpos-dev.com/amiri/imgdata/3025020702922.jpg) Dessert](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 8](https://image.kpos-dev.com/amiri/imgdata/3025070303599.jpg) Brunch 09:45 - 5pm](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 9](https://image.kpos-dev.com/amiri/imgdata/3025111704347.jpg) Dinner](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 10](https://image.kpos-dev.com/amiri/imgdata/3026021604956.jpg) Small Dish](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 11](https://image.kpos-dev.com/amiri/imgdata/3025103004189.jpg) Add On Side](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 12](https://image.kpos-dev.com/amiri/imgdata/3124032700121.jpg) Coffee, Drinks, Tea](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 13](https://image.kpos-dev.com/amiri/imgdata/3224021207683.jpg) Cold Drink](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 14](https://image.kpos-dev.com/amiri/imgdata/3026021204873.jpg) Cocktails](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n*   [![Image 15](https://image.kpos-dev.com/amiri/imgdata/3026021204774.jpg) Alcohol Drinks](https://www.kpos.com.au/amiri/index_table.php?tableno=996)\n\n![Image 16: arrow icon](https://www.kpos.com.au/order_svg/doublearrow-opened.svg)\n\nMario melted Toasties (Combo Set)\n\n$15.90\n\nBlueberry Cheese Pie\n\n$15.90\n\nDubai Chocolate Pie\n\n$14.90\n\nOreo Cheesecake\n\n$14.90\n\nOriginal Basque Cheese Cake (GF)\n\n$14.90\n\nStrawberry Basque Cheese Cake\n\n$15.90\n\nStrawberry Cheese Pie\n\n$15.90\n\nStrawberry Short Cake\n\n$14.90\n\nSan Sebastian Cheesecake (Honey Cream)\n\n$16.90\n\nSan Sebastian Cheesecake (Matcha)\n\n$16.90\n\nSan Sebastian Cheesecake (Chocolate)\n\n$16.90\n\nYuki Yuki Soft\n\n$16.90\n\nIchigo Matcha Soft Serve Croissant\n\n$12.90\n\nBiscoff Soft Serve Croissant\n\n$12.90\n\nUji Matcha Choux Set\n\n$15.90\n\nBrownie Cookie Sundae\n\n$14.90\n\nBiscoff Sundae\n\n$14.90\n\nNatsu Matcha Sundae\n\n$14.90\n\nSan Sebastian Cheesecake (Chocola"
+        },
+        "https://www.mggs.vic.edu.au/": {
+            "url": "https://www.mggs.vic.edu.au/",
+            "title": "Melbourne Girls Grammar",
+            "content_markdown": "Title: Melbourne Girls Grammar | Empowering Tomorrow’s Women\n\nURL Source: https://www.mggs.vic.edu.au/\n\nMarkdown Content:\n# Melbourne Girls Grammar | Empowering Tomorrow’s Women\n\n*   [Privacy Policy](https://www.mggs.vic.edu.au/privacy-policy)\n*   [Accessibility](https://www.mggs.vic.edu.au/accessibility)\n\n[Melbourne Girls Grammar](https://www.mggs.vic.edu.au/)\n\nMenu[Book a tour](https://www.mggs.vic.edu.au/tour)\n\n[+61 3 9862 9200](tel:+61398629200)\n\n[View Map](https://goo.gl/maps/5PsAeSxcvSw)\n\n[Search](https://www.mggs.vic.edu.au/)\n\n[My MGGS](https://www.mggs.vic.edu.au/my-mggs)\n\n[Book a tour](https://www.mggs.vic.edu.au/tour)\n\n[Back](https://www.mggs.vic.edu.au/#)\n\nSearch for: \n\n## Connect with us Connect\n\n*   [](https://www.instagram.com/melbournegirlsgrammar/)\n*   [](https://www.facebook.com/MelbourneGirlsGrammar/?fref=ts)\n*   [](https://twitter.com/MGGS_SouthYarra?lang=en)\n*   [](https://www.linkedin.com/company/1013594?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A1013594%2Cidx%3A2-1-2%2CtarId%3A1479877279235%2Ctas%3Amelbourne%20girls%20grammar)\n\nclose\n\nMore\n\nRetirement of Dr Toni Meath\n\nAnnouncement from the Chair of Council.\n\n[Read More >](https://www.mggs.vic.edu.au/news/the-retirement-of-dr-toni-meath)\n\n## Discover Melbourne Girls Grammar\n\nMelbourne Girls Grammar is a place where challenge and choice create opportunities for every student to discover who she is meant to be.\n\nA leader in girls’ education since 1893, our School has built an outstanding reputation for excellence, enabling students to develop with confidence and independence.\n\nWorld-class learning programs, state-of-the-art facilities and an extensive co-curricular program inspire each student to achieve their best in the classroom and beyond.\n\nTo educate is to make an intervention into the lives of others. When we intervene, we do so with certain assumptions about the value of what we are doing and why. Building students' capacity for future readiness is a moral-ethical learning endeavour and one that cannot be left to chance.\n\n To achieve this, Melbourne Girls Grammar promotes a progressive, contemporary community of practice committed to providing personalised high quality curriculum, wellbeing and co-curricular programs that enable lifelong learning for every student. We are future focused and committed to inspiring our Grammarians and equipping them with the values, knowledge and skills to be ready to make their mark on the world.\n\n![Image 1](https://cdn.mggs.vic.edu.au/app/uploads/2019/02/03120807/Toni-Meath-Preferred-wen-150x150.jpg)\nDr Toni Meath, Principal\n\n[Read more from Toni](https://www.mggs.vic.edu.au/about-us/principals-welcome)\n\n[Vision](https://www.mggs.vic.edu.au/#collapse_69bfa65f8de0b)\n\nMelbourne Girls Grammar aspires to develop ethical women of action. Through a focus on learning, research and innovation, we will be recognised by our own community, the national and international community as a leading school in girls’ education.\n\n[Mission](https://www.mggs.vic.edu.au/#collapse_69bfa65f8de1b)\n\nIn the pursuit of our vision, Melbourne Girls Grammar is committed to the provision of an exceptional education for girls with an emphasis on strong Christian values, high expectations, creativity and academic challenge.\n\nWithin a supportive and positive learning environment, girls will discover their passion and build their capacities for action and influence.\n\n[Values](https://www.mggs.vic.edu.au/#collapse_69bfa65f8de21)\n\n*   Integrity\n\n*   Compassion\n\n*   Courage\n\n*   Self-discipline\n\nMelbourne Girls Grammar is committed to the principles of a liberal democracy. To learn more, view our [Statement of Democratic Principles](https://www.mggs.vic.edu.au/statement-of-democratic-principles).\n\n[](https://www.mggs.vic.edu.au/envisioning-the-future)\n\n[### Envisioning the Future In 2020 Melbourne Girls Grammar launched to the School community a vision for a future that sees the empowerment of young women to take action, to embrace chal"
+        },
+        "https://www.instagram.com/cafe_andiamo/": {
+            "url": "https://www.instagram.com/cafe_andiamo/",
+            "title": "Cafe Andiamo",
+            "content_markdown": "Title: Instagram\n\nURL Source: https://www.instagram.com/cafe_andiamo/\n\nMarkdown Content:\n# Instagram\n\n![Image 1](blob:http://localhost/a2c4acc86ce977bdb7718eba199dd413)![Image 2](blob:http://localhost/a7d152ce433b443153f919ae47dd7fc4)\n\nSee everyday moments from your close friends.\n\n![Image 3](https://static.cdninstagram.com/rsrc.php/yN/r/-erGonz07kB.webp)\n\nLog into Instagram\n\nMobile number, username or email \n\nPassword \n\n- [x] \n\nLog in\n\n \n\n[Forgot password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\nLog in with Facebook\n\n[Create new account](https://www.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n* * *\n\n[Meta](https://about.meta.com/)\n\n[About](https://about.instagram.com/)\n\n[Blog](https://about.instagram.com/blog/)\n\n[Jobs](https://about.instagram.com/about-us/careers)\n\n[Help](https://help.instagram.com/)\n\n[API](https://developers.facebook.com/docs/instagram)\n\n[Privacy](https://www.instagram.com/legal/privacy/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n[Terms](https://www.instagram.com/legal/terms/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n[Locations](https://www.instagram.com/explore/locations/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n[Instagram Lite](https://www.instagram.com/web/lite/?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n[Meta AI](https://www.meta.ai/?utm_source=foa_web_footer)\n\n[Threads](https://www.threads.com/)\n\n[Contact Uploading & Non-Users](https://www.facebook.com/help/instagram/261704639352628?next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\n[Meta Verified](https://www.instagram.com/accounts/meta_verified/?entrypoint=web_footer&next=https%3A%2F%2Fwww.instagram.com%2Fcafe_andiamo%2F)\n\nEnglish\n\n© 2026 Instagram from Meta\n"
+        },
+        "https://www.dtbv.org.au/": {
+            "url": "https://www.dtbv.org.au/",
+            "title": "Donor Tissue Bank Of Victoria",
+            "content_markdown": "Title: Welcome to DTBV - Donor Tissue Bank of Victoria (DTBV)\n\nURL Source: https://www.dtbv.org.au/\n\nMarkdown Content:\n[![Image 1: Donor Tissue Bank of Victoria (DTBV)](https://dtbv.org.au/wp-content/themes/dtbv-bootstrap/img/dtbv-logo-nav.png)](https://dtbv.org.au/ \"Donor Tissue Bank of Victoria (DTBV)\")\n\n*   [Home](https://dtbv.org.au/)\n*   [About](https://dtbv.org.au/about/)\n*   [Discover](https://dtbv.org.au/discover/)\n*   [For Medical Practitioners](https://dtbv.org.au/dtbv-tissue-grafts/)\n*   [News & Events](https://dtbv.org.au/news-events/)\n*   [Contact us](https://dtbv.org.au/contact-us/)\n\n![Image 2: Donor Tissue Bank of Victoria (DTBV)](https://dtbv.org.au/wp-content/themes/dtbv-bootstrap/img/dtbv-logo.png)\n\n[![Image 3](https://dtbv.org.au/wp-content/uploads/2025/07/Homepage-Banner-4-1040x300.png)](https://dtbv.org.au/donatelife-week-2025-27-july-to-3-august-2025/)\n\n### Learn more\n\n## How Can I Donate Skin?\n\nIn Australia, skin can only be donated from deceased donors.\n\nYou can register your wish to be a tissue donor in Australia on the DonateLife website: [www.donatelife.gov.au](http://www.donatelife.gov.au/).\n\nIt is also important to tell your family members your wishes as they will be asked to help facilitate donation at that time\n\n## Become a Donor\n\n[![Image 4: DTBV](https://dtbv.org.au/wp-content/uploads/2013/12/shutterstock_161208692-cropped-sml-LAPTOP.jpg)](https://dtbv.org.au/discover/how-do-i-become-a-donor/)\n\nFind out how you can register your wish to be considered for tissue donation...\n\n## About Tissue Donation\n\n[![Image 5: DTBV](https://dtbv.org.au/wp-content/uploads/2013/12/shutterstock_162629372-Cropped-sml-BABY.jpg)](https://dtbv.org.au/discover/)\n\nTissue donation can enhance and even save people's lives. Find out more...\n\n## Reasons to Donate\n\n[![Image 6: DTBV](https://dtbv.org.au/wp-content/uploads/2013/12/shutterstock_162697553-cropped-sml-GRANNY.jpg)](https://dtbv.org.au/discover/why-donate/)\n\nThere are many reasons to become a tissue donor. Find out more...\n"
+        },
+        "https://www.instagram.com/mistypot_melbourne?igsh=dmhydDVwaG42eXJr": {
+            "url": "https://www.instagram.com/mistypot_melbourne?igsh=dmhydDVwaG42eXJr",
+            "title": "Misty Pot Korean Grill Bar & Cafe",
+            "content_markdown": "Title: Instagram\n\nURL Source: https://www.instagram.com/mistypot_melbourne?igsh=dmhydDVwaG42eXJr\n\nMarkdown Content:\n# Instagram\n\nSee everyday moments from your close friends.\n\n![Image 1](https://static.cdninstagram.com/rsrc.php/yJ/r/53X3pk-t2Gn.webp)\n\nLog into Instagram\n\nMobile number, username or email \n\nPassword \n\nLog in\n\n[Forgot password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\nLog in with Facebook\n\n[Create new account](https://www.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n* * *\n\n[Meta](https://about.meta.com/)\n\n[About](https://about.instagram.com/)\n\n[Blog](https://about.instagram.com/blog/)\n\n[Jobs](https://about.instagram.com/about-us/careers)\n\n[Help](https://help.instagram.com/)\n\n[API](https://developers.facebook.com/docs/instagram)\n\n[Privacy](https://www.instagram.com/legal/privacy/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n[Terms](https://www.instagram.com/legal/terms/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n[Locations](https://www.instagram.com/explore/locations/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n[Instagram Lite](https://www.instagram.com/web/lite/?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n[Meta AI](https://www.meta.ai/?utm_source=foa_web_footer)\n\n[Threads](https://www.threads.com/)\n\n[Contact Uploading & Non-Users](https://www.facebook.com/help/instagram/261704639352628?next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\n[Meta Verified](https://www.instagram.com/accounts/meta_verified/?entrypoint=web_footer&next=https%3A%2F%2Fwww.instagram.com%2Fmistypot_melbourne%3Figsh%3DdmhydDVwaG42eXJr)\n\nEnglish\n\n© 2026 Instagram from Meta\n"
+        },
+        "https://www.smct.org.au/locations/melbourne-general-cemetery": {
+            "url": "https://www.smct.org.au/locations/melbourne-general-cemetery",
+            "title": "Melbourne General Cemetery",
+            "content_markdown": "Title: Melbourne General Cemetery\n\nURL Source: https://www.smct.org.au/locations/melbourne-general-cemetery\n\nMarkdown Content:\n# Melbourne General Cemetery | SMCT\n\n[Skip to main content](https://www.smct.org.au/locations/melbourne-general-cemetery#main)\n\nEngage with SMCT:\n\nHelp shape how SMCT engages with our diverse community.\n\n[Make an impact on Community Engagement.](https://www.engagewith.smct.org.au/2026-community-engagement-smct?utm_source=website&utm_medium=galert&utm_campaign=engagewith)\n\nClose\n\n[](https://www.smct.org.au/ \"Home - Southern Metropolitan Cemeteries Trust\")\n\n[Deceased search](https://www.smct.org.au/deceased-search)[Upcoming services](https://www.smct.org.au/upcoming-services)[Make a payment](https://www.smct.org.au/make-a-payment)[Search](https://www.smct.org.au/search)Search\n\nCart 0 items\n\nMenu\n\n*   Cemetery locations\n\nCemetery locations\n\n    *   [Springvale Botanical Cemetery](https://www.smct.org.au/locations/springvale-botanical-cemetery) \nSpringvale Botanical Cemetery with spectacular gardens and roses is widely regarded as the most beautiful in Australia.\n\n    *   [Bunurong Memorial Park](https://www.smct.org.au/locations/bunurong-memorial-park) \nContemporary Australian, this unique sanctuary in Dandenong South is designed to honour and celebrate life for all communities.\n\n    *   [Melbourne General Cemetery](https://www.smct.org.au/locations/melbourne-general-cemetery) \nMelbourne General Cemetery, the first Victorian cemetery designed as a public park for the Melbourne community.\n\n    *   [Brighton General Cemetery](https://www.smct.org.au/locations/brighton-general-cemetery)\n    *   [Cheltenham Memorial Park](https://www.smct.org.au/locations/cheltenham-memorial-park)\n    *   [Cheltenham Pioneer Cemetery](https://www.smct.org.au/locations/cheltenham-pioneer-cemetery)\n    *   [Dandenong Community Cemetery](https://www.smct.org.au/locations/dandenong-community-cemetery)\n    *   [San Remo Cemetery](https://www.smct.org.au/locations/san-remo-cemetery)\n    *   [Sorrento Community Cemetery](https://www.smct.org.au/locations/sorrento-community-cemetery)\n    *   [St Kilda Cemetery](https://www.smct.org.au/locations/st-kilda-cemetery)\n    *   [Wonthaggi Cemetery](https://www.smct.org.au/locations/wonthaggi-cemetery)\n\n*   Services and facilities\n\nServices\n\n    *   [Burial options and services](https://www.smct.org.au/services/burial-options) \nA range of classic and contemporary in-ground burial options, honouring personal, cultural, and religious preferences.\n\n    *   [Cremation options and services](https://www.smct.org.au/services/cremation-options) \nAn enduring tribute urn or memorial for a loved one, available in various traditional and contemporary styles across our cemeteries.\n\n    *   [Mausoleum options and services](https://www.smct.org.au/services/mausoleum-options) \nLeave a legacy with elegant mausoleum spaces that provide contemplation and comfort for families and their loved ones.\n\nFacilities\n\n    *   [Plaque memorialisation options](https://www.smct.org.au/services/plaques)\n    *   [Memorial areas](https://www.smct.org.au/areas)\n    *   [Crematorium services](https://www.smct.org.au/services/crematorium-services)\n    *   [Cremation witness viewing rooms](https://www.smct.org.au/services/viewing-rooms)\n    *   [Funeral venues and function rooms](https://www.smct.org.au/services/function-rooms)\n    *   [Chapels and reflection spaces](https://www.smct.org.au/services/chapels-and-reflection-spaces)\n    *   [Café Vita et Flores: Licensed café and florist](https://www.smct.org.au/services/cafe)\n    *   [Springvale and Dandenong South Florist](https://www.smct.org.au/services/florist)\n\nShop\n\n    *   [Flowers](https://www.smct.org.au/flowers)\n\n*   Plan\n\nPlan\n\n    *   [10 steps to planning a funeral](https://www.smct.org.au/plan/10-steps) \nA guide based on the most frequently asked questions by families when planning a burial, funeral or memorial service.\n\n    *   [Pricing](https://www.smct.org.au/plan"
+        },
+        "http://www.newquay.com.au/experience/newquay-marina/": {
+            "url": "http://www.newquay.com.au/experience/newquay-marina/",
+            "title": "NewQuay Marina",
+            "content_markdown": "Title: NewQuay Marina – NewQuay Docklands\n\nURL Source: http://www.newquay.com.au/experience/newquay-marina/\n\nMarkdown Content:\n# NewQuay Marina – NewQuay Docklands\n\n[](https://www.newquay.com.au/)\n\n*   [![Image 4](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_facebook.png)](https://www.facebook.com/NewQuayMelbourne/)\n*   [![Image 6](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_instagram.png)](https://www.instagram.com/newquaymelbourne/)\n*   [![Image 8](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_wechat.png)](http://www.newquay.com.au/wechat/)\n*   [![Image 10](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_chinesecharacters.png)](http://www.newquay.com.au/wechat/)\n\n*   [Location](http://www.newquay.com.au/experience/newquay-marina/# \"Location\")\n    *   [Location](https://www.newquay.com.au/newquay/ \"Location\")\n    *   [Our Projects](https://www.newquay.com.au/past-developments/ \"Our Projects\")\n\n*   [Now Selling](https://www.newquay.com.au/now-selling/ \"Now Selling\")\n*   [Awards](https://www.newquay.com.au/awards/ \"Awards\")\n*   [About MAB](https://www.newquay.com.au/mab/ \"About MAB\")\n*   [Contact](https://www.newquay.com.au/contact/ \"Contact\")\n\n*   [![Image 12](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_facebook.png)](https://www.facebook.com/NewQuayMelbourne/)\n*   [![Image 14](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_instagram.png)](https://www.instagram.com/newquaymelbourne/)\n*   [![Image 16](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_wechat.png)](http://www.newquay.com.au/wechat/)\n*   [![Image 18](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.newquay.com.au/wp-content/themes/newquay/images/icon_chinesecharacters.png)](http://www.newquay.com.au/wechat/)\n\n[Stay Up to Date](http://www.newquay.com.au/experience/newquay-marina/#newsletter)\n\n![Image 19](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1200,h_450/https://www.newquay.com.au/wp-content/uploads/2018/03/mab_newquay_couple-on-boat1200x450px.jpg)\n# NewQuay Marina\n\n## Discover NewQuay Marina at Docklands\n\nNewQuay Marina at Docklands is Melbourne’s ultimate boating address.\n\nLocated adjacent to NewQuay Promenade, the marina offers premier access to waterfront restaurants, business hubs, major transport links and spectacular views of the city.\n\nDiscover this impressive 48 berth marina on Melbourne’s premier harbour – right in the heart of NewQuay, Docklands.\n\n### Key Features\n\n*   Flexible berth sizes, accommodating vessels 35ft+\n*   Spectacular views of the city, Victoria Harbour and Bolte Bridge\n*   Perfect backdrop for entertaining on your yacht\n*   24 hour security cameras and security gates with restricted pass access\n*   Fully serviced berths: power, water, sewer pump facilities and fire equipment all included\n*   24 hour car parking pass included\n*   Located opposite Marvel Stadium\n\n### Contact us to find out more\n\nFull name\n\nEmail\n\nPhone\n\nBoat size and type\n\nMessage\n\nΔ\n\n![Image 20](http://www.newquay.com.au/experience/newquay-marina/)\n\n![Image 21](http://www.newquay.com.au/experience/newquay-marina/)\n\nFull name\n\nEmail\n\nPhone\n\nBoat size and type\n\nMessage\n\nΔ\n\n[](https://www.newquay.com.au/)\n\n[](https://www.mab.com.au/)\n\n**Navigation**\n\n*   [Location](https://www.newquay.com.au/newquay/)\n*   [Awards](https://www.newquay.com.au/awards/)\n*   [Our Projects](https://www.newquay.com.au/past-developments/)\n*   [Now Selling](https://www.newquay.com.au/now-selling/)\n*   [About MAB](ht"
+        },
+        "http://www.saintmarysacc.org/": {
+            "url": "http://www.saintmarysacc.org/",
+            "title": "Saint Mary’s Anglican Catholic Church",
+            "content_markdown": "Title: St. Mary's Anglican Catholic Church\n\nURL Source: http://www.saintmarysacc.org/\n\nMarkdown Content:\n![Image 1: Interior of a small church with wooden pews, altar with candles, crucifix on the wall, and stained glass windows on the right side.](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/7459b3c2-9870-4845-84a9-b085d7ee0bb3/_90A0064--NR+copy.jpg)\n\n![Image 2: Interior of a small church with wooden pews, altar with candles, crucifix on the wall, and stained glass windows on the right side.](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/7459b3c2-9870-4845-84a9-b085d7ee0bb3/_90A0064--NR+copy.jpg)\n\nWelcome to St. Mary’s Anglican Catholic Church in Denver, Colorado. We are a traditional Anglo-Catholic parish offering historical, sacramental worship centered on the Holy Eucharist. Join us for reverent high-church liturgy every Sunday, with Low Mass at 7:30 AM and Sung Mass at 9:30 AM. Rooted in Scripture, ancient tradition, and the beauty of holiness, St. Mary’s is a faithful witness to the Catholic and Apostolic faith.\n\n## **Catholic Faith**\n\n## **Apostolic Order**\n\n## **Orthodox Worship**\n\n## **Evangelical Witness**\n\n![Image 3: Interior of a church altar with a crucifix on the wall, seven tall candles on gold candlesticks, floral arrangements on each side, and a butterfly mosaic on the front of the altar.](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/aa4ee325-21ba-4792-abe0-c630ad745183/_90A0073--NR+copy+SMALL.jpg)\n\n### “We have no doctrine of our own. We only possess the catholic doctrine of the Catholic Church enshrined in the catholic creeds, and these creeds we hold without addition or diminution. We stand firm on that rock.”\n\n— The Most Reverend Geoffrey Francis Fisher, Archbishop of Canterbury (1945-1961)\n\nEmail Address\n\nWe respect your privacy.\n\nThank you!\n\n![Image 4: Logo of The Anglican Catholic Church featuring a shield with a cross, topped by a crown](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/79d20514-6617-48ae-bb03-5641c2b3fcd7/ACC.png)\n\n![Image 5: Seal with a shield and Celtic cross, surrounded by the text \"Diocese of the Holy Trinity\" and the year 1978.](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/0ab9522c-0dd4-409c-91c2-df3606eba081/DHT-identity.png)\n\nRead about our province [here](https://anglicancatholic.org/about-us/).\n\n![Image 6: Badge of the 2023 Anglican Sutton South event, featuring a shield with various religious symbols and a blue border with the event name.](https://images.squarespace-cdn.com/content/v1/67043d5f39a1322aeea40ca8/9a7a90d5-89f3-4522-8bad-3bfb7fb17897/g3.jpeg)\n\nWe are part of the G3 Anglican Joint Synods.\n\nRead about our diocese [here](https://thedht.org/vision).\n"
+        },
+        "https://www.abc.net.au/": {
+            "url": "https://www.abc.net.au/",
+            "title": "Australian Broadcasting Corporation",
+            "content_markdown": "Title: ABC News & Headlines – Australian Broadcasting Corporation\n\nURL Source: https://www.abc.net.au/\n\nMarkdown Content:\n# ABC News & Headlines – Australian Broadcasting Corporation\n\n[Skip to main content](https://www.abc.net.au/#content)\n\n[Skip to news navigation, settings and search](https://www.abc.net.au/#newsLogoAnchor)\n\n## Explore the ABC\n\nMore from ABC\n\n## More from ABC\n\nClose menu[ABC](https://www.abc.net.au/)\n\n*   [News](https://www.abc.net.au/)\n*   [iview](https://iview.abc.net.au/)\n*   [listen](https://www.abc.net.au/listen)\n*   [kids](https://www.abc.net.au/abckids)\n*   [emergency](https://www.abc.net.au/emergency)\n*   [local](https://www.abc.net.au/local)\n*   [education](https://www.abc.net.au/education)\n*   [shop](https://www.abc.net.au/shop)\n*   [TV Guide](https://www.abc.net.au/tv/epg/)\n*   [More](https://www.abc.net.au/more/)\n\n[### Editorial Policies Read our editorial guiding principles](https://www.abc.net.au/edpols)\n\n*   [Accessibility](https://www.abc.net.au/about/accessibility-statement/103700726)\n*   [Help](https://help.abc.net.au/)\n*   [Contact Us](https://help.abc.net.au/hc/en-us/articles/360001150496-What-are-the-contact-details-for-the-ABC-)\n*   [About the ABC](https://www.abc.net.au/about/)\n*   [Privacy Policy](https://help.abc.net.au/hc/en-us/articles/360001154976-ABC-Privacy-Policy)\n*   [Terms of Use](https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use)\n*   [© 2026 ABC](https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use#Use_of_ABC_Content)\n\n*   [](https://www.facebook.com/abc/ \"ABC on Facebook\")\n*   [](https://www.youtube.com/abcaustralia \"ABC on YouTube\")\n*   [](https://www.instagram.com/abcaustralia/ \"ABC on Instagram\")\n*   [](https://x.com/abcaustralia/ \"ABC on X\")\n\n*   [news](https://www.abc.net.au/)\n*   [iview](https://iview.abc.net.au/)\n*   [listen](https://www.abc.net.au/listen)\n\n[ABC News](https://www.abc.net.au/)\n*   [Just In](https://www.abc.net.au/news/justin)\n*   [For You](https://www.abc.net.au/news/for-you)\n*   [Politics](https://www.abc.net.au/news/politics)\n*   [World](https://www.abc.net.au/news/world)\n*   [Business](https://www.abc.net.au/news/business)\n*   [Analysis](https://www.abc.net.au/news/analysis-and-opinion)\n*   [Sport](https://www.abc.net.au/news/sport)\n*   [Lifestyle](https://www.abc.net.au/news/lifestyle)\n*   [Entertainment](https://www.abc.net.au/news/entertainment)\n*   [Quizzes](https://www.abc.net.au/news/quizzes)\n\nMore\n\nSearch\n\nLog in\n\n*   [News Home](https://www.abc.net.au/)\n    *   [Just In](https://www.abc.net.au/news/justin)\n    *   [For You](https://www.abc.net.au/news/for-you)\n    *   [Analysis](https://www.abc.net.au/news/analysis-and-opinion)\n    *   [Rural](https://www.abc.net.au/news/rural)\n    *   [Watch Live](https://www.abc.net.au/news/newschannel)\n    *   [Health](https://www.abc.net.au/news/health)\n    *   [Indigenous](https://www.abc.net.au/news/indigenous)\n    *   [Politics](https://www.abc.net.au/news/politics)\n    *   [Science](https://www.abc.net.au/news/science)\n    *   [Deep Time](https://www.abc.net.au/news/deeptime/)\n    *   [Elections](https://www.abc.net.au/news/elections)\n    *   [World](https://www.abc.net.au/news/world)\n    *   [Environment](https://www.abc.net.au/news/environment)\n    *   [Investigations](https://www.abc.net.au/news/story-streams/investigations)\n    *   [Business](https://www.abc.net.au/news/business)\n    *   [Local news](https://www.abc.net.au/local)\n    *   [Quizzes](https://www.abc.net.au/news/quizzes)\n\n*   [Sport](https://www.abc.net.au/news/sport)\n    *   [AFL](https://www.abc.net.au/news/sport/afl)\n    *   [NRL](https://www.abc.net.au/news/sport/rugbyleague)\n    *   [Football](https://www.abc.net.au/news/sport/football)\n    *   [Tennis](https://www.abc.net.au/news/sport/tennis)\n    *   [Cricket](https://www.abc.net.au/news/sport/cricket)\n    *   [Netball](https://www.abc.net.au/news/sport/netball)\n\n*   [Lifestyle](https://www.abc.net.au/news/lifestyle)\n    *   [Wellbeing"
+        },
+        "https://www.bacirestaurant.com.au/": {
+            "url": "https://www.bacirestaurant.com.au/",
+            "title": "Baci",
+            "content_markdown": "Title: Home | Baci Restaurant\n\nURL Source: https://www.bacirestaurant.com.au/\n\nPublished Time: Sun, 22 Mar 2026 03:04:04 GMT\n\nMarkdown Content:\n![Image 1: ALL FOOD LOWERR scaled](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/bacirestaurant.com.au/wp-content/uploads/2020/01/ALL-FOOD-LOWERR-scaled.jpg.bv_resized_desktop.jpg.bv.webp?bv_host=bacirestaurant.com.au)\n\n#### Food\n\nEnjoy classic Italian flavours combined with a modern blend of spices to bring you authentic Italian cuisine.\n\n#### Cakes & Coffee\n\nSpeciality coffee shop serving cakes and light bites around the clock.\n\n#### Drinks\n\nDelicious cocktails, traditional spirits and a wide range of beers and ciders make Baci the perfect spot to spend your evenings on a date or to celebrate with family and friends.\n\n#### Drinks\n\nDelicious cocktails, traditional spirits and a wide range of beers and ciders make Baci the perfect spot to spend your evenings on a date or to celebrate with family and friends.\n\n#### Food\n\nEnjoy classic Italian flavours combined with a modern blend of species to bring you authentic Italian cuisine.\n\n#### Cakes & Coffee\n\nSpeciality coffee shop serving cakes and light bites around the clock.\n\n### Testimonials\n\n![Image 2: stars](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/bacirestaurant.com.au/wp-content/uploads/2019/07/stars.png.bv.webp?bv_host=bacirestaurant.com.au)\n\n“The service is great (especially Chris Pino) and the food is awesome. My kids love Baci so much and had breakfast, lunch, and dinner here. Highly recommended..“\n\n[Alex Chan](https://www.google.com/maps/contrib/108151142278049465033/reviews?hl=en-AU&sa=X&ved=2ahUKEwj7xLXX3M_jAhXPfH0KHXCLCfoQvvQBegQIARAV)\n\n![Image 3: stars](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/bacirestaurant.com.au/wp-content/uploads/2019/07/stars.png.bv.webp?bv_host=bacirestaurant.com.au)\n\n“The food is presented super nicely!\n\n The team is super friendly!\n\n Very clean and well presented!\n\n I would definitely come back to this place.“\n\n[Stefania](https://www.google.com/maps/contrib/108169331616745335758?hl=en-AU&sa=X&ved=2ahUKEwiHgpS_0frnAhUVheYKHQcyCFUQvvQBegQIARAq)\n\n![Image 4: stars](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/bacirestaurant.com.au/wp-content/uploads/2019/07/stars.png.bv.webp?bv_host=bacirestaurant.com.au)\n\n“Had a great experience, meals are well priced for the quality and quantity you receive. Ordered a Chicken Parmigiana and the Salmon and both of these dishes where great! Will come back again..“\n\n[Kourken Ghazarian](https://www.google.com/maps/contrib/100396214542574320429/reviews?hl=en-AU&sa=X&ved=2ahUKEwj7xLXX3M_jAhXPfH0KHXCLCfoQvvQBegQIARAj)\n\n![Image 5: stars](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/bacirestaurant.com.au/wp-content/uploads/2019/07/stars.png.bv.webp?bv_host=bacirestaurant.com.au)\n\n“Thought we would have a night out when we dropped into Baci for dinner and a sweet treat.\n\nService was fantastic and the food was second to none.I would recommend if you want something on the go as the food was served quickly.Top-quality place with so many desserts to choose from“\n\n## Dine in and Takeaway menu\n\n[![Image 6: Risotto FB](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/www.bacirestaurant.com.au/wp-content/uploads/2021/04/Risotto-FB.png.bv_resized_desktop.png.bv.webp?bv_host=www.bacirestaurant.com.au)](https://www.bacirestaurant.com.au/dinner-menu-baci/)\n\n[![Image 7: chicken burger](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/www.bacirestaurant.com.au/wp-content/uploads/2021/03/burger-FB.jpg.bv_resized_desktop.jpg.bv.webp?bv_host=www.bacirestaurant.com.au)](https://www.bacirestaurant.com.au/lunch-menu/)\n\n[![Image 8: brunch 2](https://www.bacirestaurant.com.au/wp-content/uploads/al_opt_content/IMAGE/www.bacirestaurant.com.au/wp-content/uploads/2021/03/ham-and-eggs-FB.jpg.bv_resized_deskto"
+        },
+        "http://thebricklane.com.au/": {
+            "url": "http://thebricklane.com.au/",
+            "title": "Brick Lane Melbourne",
+            "content_markdown": "Title: Brick Lane\n\nURL Source: http://thebricklane.com.au/\n\nMarkdown Content:\n# Brick Lane – Brick Lane Melbourne\n\n­\n\n[Skip to content](http://thebricklane.com.au/#MainContent)\n\n[🍦 NOW SELLING GOURMET CHOC TOPS - ROCKY ROAD, LAMINGTON, CHOC-MINT, HOKIE POKIE 🍦](http://thebricklane.com.au/products/laneway-lamington)\n\n*   [Home](http://thebricklane.com.au/)\n*   [Visual Menu](https://www.meandu.app/bricklane/menu?utm_source=website)\n*   [Book (mid-week only)](https://thebricklane.com.au/pages/book-a-table)\n\n## Country/region\n\nUnited States | AUD $\n\nSearch \n\n*   [Afghanistan AUD $](http://thebricklane.com.au/#)\n*   [Åland Islands AUD $](http://thebricklane.com.au/#)\n*   [Albania AUD $](http://thebricklane.com.au/#)\n*   [Algeria AUD $](http://thebricklane.com.au/#)\n*   [Andorra AUD $](http://thebricklane.com.au/#)\n*   [Angola AUD $](http://thebricklane.com.au/#)\n*   [Anguilla AUD $](http://thebricklane.com.au/#)\n*   [Antigua & Barbuda AUD $](http://thebricklane.com.au/#)\n*   [Argentina AUD $](http://thebricklane.com.au/#)\n*   [Armenia AUD $](http://thebricklane.com.au/#)\n*   [Aruba AUD $](http://thebricklane.com.au/#)\n*   [Ascension Island AUD $](http://thebricklane.com.au/#)\n*   [Australia AUD $](http://thebricklane.com.au/#)\n*   [Austria AUD $](http://thebricklane.com.au/#)\n*   [Azerbaijan AUD $](http://thebricklane.com.au/#)\n*   [Bahamas AUD $](http://thebricklane.com.au/#)\n*   [Bahrain AUD $](http://thebricklane.com.au/#)\n*   [Bangladesh AUD $](http://thebricklane.com.au/#)\n*   [Barbados AUD $](http://thebricklane.com.au/#)\n*   [Belarus AUD $](http://thebricklane.com.au/#)\n*   [Belgium AUD $](http://thebricklane.com.au/#)\n*   [Belize AUD $](http://thebricklane.com.au/#)\n*   [Benin AUD $](http://thebricklane.com.au/#)\n*   [Bermuda AUD $](http://thebricklane.com.au/#)\n*   [Bhutan AUD $](http://thebricklane.com.au/#)\n*   [Bolivia AUD $](http://thebricklane.com.au/#)\n*   [Bosnia & Herzegovina AUD $](http://thebricklane.com.au/#)\n*   [Botswana AUD $](http://thebricklane.com.au/#)\n*   [Brazil AUD $](http://thebricklane.com.au/#)\n*   [British Indian Ocean Territory AUD $](http://thebricklane.com.au/#)\n*   [British Virgin Islands AUD $](http://thebricklane.com.au/#)\n*   [Brunei AUD $](http://thebricklane.com.au/#)\n*   [Bulgaria AUD $](http://thebricklane.com.au/#)\n*   [Burkina Faso AUD $](http://thebricklane.com.au/#)\n*   [Burundi AUD $](http://thebricklane.com.au/#)\n*   [Cambodia AUD $](http://thebricklane.com.au/#)\n*   [Cameroon AUD $](http://thebricklane.com.au/#)\n*   [Canada AUD $](http://thebricklane.com.au/#)\n*   [Cape Verde AUD $](http://thebricklane.com.au/#)\n*   [Caribbean Netherlands AUD $](http://thebricklane.com.au/#)\n*   [Cayman Islands AUD $](http://thebricklane.com.au/#)\n*   [Central African Republic AUD $](http://thebricklane.com.au/#)\n*   [Chad AUD $](http://thebricklane.com.au/#)\n*   [Chile AUD $](http://thebricklane.com.au/#)\n*   [China AUD $](http://thebricklane.com.au/#)\n*   [Christmas Island AUD $](http://thebricklane.com.au/#)\n*   [Cocos (Keeling) Islands AUD $](http://thebricklane.com.au/#)\n*   [Colombia AUD $](http://thebricklane.com.au/#)\n*   [Comoros AUD $](http://thebricklane.com.au/#)\n*   [Congo - Brazzaville AUD $](http://thebricklane.com.au/#)\n*   [Congo - Kinshasa AUD $](http://thebricklane.com.au/#)\n*   [Cook Islands AUD $](http://thebricklane.com.au/#)\n*   [Costa Rica AUD $](http://thebricklane.com.au/#)\n*   [Côte d’Ivoire AUD $](http://thebricklane.com.au/#)\n*   [Croatia AUD $](http://thebricklane.com.au/#)\n*   [Curaçao AUD $](http://thebricklane.com.au/#)\n*   [Cyprus AUD $](http://thebricklane.com.au/#)\n*   [Czechia AUD $](http://thebricklane.com.au/#)\n*   [Denmark AUD $](http://thebricklane.com.au/#)\n*   [Djibouti AUD $](http://thebricklane.com.au/#)\n*   [Dominica AUD $](http://thebricklane.com.au/#)\n*   [Dominican Republic AUD $](http://thebricklane.com.au/#)\n*   [Ecuador AUD $](http://thebricklane.com.au/#)\n*   [Egypt AUD $](http://thebricklane.com.au/#)\n*   [El Salvador AUD $](http://thebricklane"
+        },
+        "http://ptv.vic.gov.au/": {
+            "url": "http://ptv.vic.gov.au/",
+            "title": "Flagstaff",
+            "content_markdown": "Title: Home\n\nURL Source: http://ptv.vic.gov.au/\n\nMarkdown Content:\n# Transport Victoria | Start here. Journey Anywhere. - Transport Victoria\n\n[Jump to Content](http://ptv.vic.gov.au/)\n\n[![Image 4: dtp-logo](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/TransportWebsite/global/DTP_LOGO.svg?h=40&iar=0&w=166)](http://ptv.vic.gov.au/)\n\n[![Image 5](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/TransportWebsite/person.svg?iar=0) myki](https://transport.vic.gov.au/manage-myki)\n\nSearch\n\n*   Plan a journey\n*   Tickets and myki\n*   Road and active transport\n*   News and resources\n*   Help and support\n\n*   Plan a journey\n*   Tickets and myki\n*   Road and active transport\n*   News and resources\n*   Help and support\n\n# Start here. Journey anywhere.\n\nFind all your travel information in one place – public transport, roads, cycling, and walking.\n\n![Image 6](http://ptv.vic.gov.au/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fstategovernc45d-cftw-production-c9ca%2Fmedia%2FProject%2FTransportWebsite%2FTransportWebsite%2Fhome-journey-line-2x.png%3Fh%3D24%26iar%3D0%26w%3D187&w=384&q=75)\n\n# Journey planner\n\n![Image 7: Public transport victoria logo](http://ptv.vic.gov.au/resources/themes/ptv-mpw/public/images/logo-simple.svg)\n\nFrom Autocomplete list \n\nSwitch departure and destination.\n\nTo Autocomplete list \n\nPlan my journey\n\n## Public transport\n\nmyki Ticketing\n\n### Buy a ticket for a train, tram or bus\n\n[Get started east](https://transport.vic.gov.au/tickets-and-myki/myki)\n\nPublic Transport\n\n### Departures\n\nReal-time departure information for trains, trams and buses.\n\n[View real-time departures east](https://transport.vic.gov.au/departures)\n\n![Image 8](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/TransportWebsite/Quick-Link-Icons/Disruption.svg?iar=0)\n\n[Disruptions](http://ptv.vic.gov.au/disruptions/disruptions-information)\n\nView disruptions for trains, trams and buses.\n\n![Image 9](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/TransportWebsite/Quick-Link-Icons/Map.png?h=32&iar=0&w=32)\n\n[Timetables](http://ptv.vic.gov.au/timetables)\n\n![Image 10: Icon Shell](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/TransportWebsite/Quick-Link-Icons/Icon-Shell2.png?h=32&iar=0&w=32)\n\n[Visitors to Victoria](http://ptv.vic.gov.au/plan-a-journey/visitors-to-victoria)\n\n[View all ticket and myki information east](https://transport.vic.gov.au/tickets-and-myki)\n\n## Road and active transport\n\n### [Registration and licensing Registration and licensing](http://ptv.vic.gov.au/road-and-active-transport/registration-and-licensing)\n\nView information about how to get your licence and register a vehicle in Victori...\n\n### [Road rules and safety Road rules and safety](http://ptv.vic.gov.au/road-and-active-transport/road-rules-and-safety)\n\nInformation on Victorian road rules and advice on how to be a safe road user.\n\n### [Business Business](http://ptv.vic.gov.au/road-and-active-transport/business)\n\nInformation for industries who use the Victorian transport network as part of th...\n\n[All roads and active transport content east](https://transport.vic.gov.au/road-and-active-transport)\n\nVicTraffic\n\n### Real-time road disruption information\n\nRoad closures, bushfire activity and other events on Victoria’s roads may affect your journey. Plan a safer trip by viewing real-time alerts on VicTraffic.\n\n[Visit VicTraffic open_in_new opens in a new tab](https://traffic.transport.vic.gov.au/)\n\n## News and projects\n\n![Image 11: contactless-graphic-traveller](https://edge.sitecorecloud.io/stategovernc45d-cftw-production-c9ca/media/Project/TransportWebsite/shared/contactless-graphic-traveller.jpg?h=900&iar=0&w=2500)\n\n### More ways to tap and go\n\nWe're trialling contactless payments on the Craigieburn, Upfield, Ballarat and S...\n\n[Learn"
+        },
+        "https://www.rdhm.org.au/": {
+            "url": "https://www.rdhm.org.au/",
+            "title": "The Royal Dental Hospital of Melbourne",
+            "content_markdown": "Title: The Royal Dental Hospital of Melbourne\n\nURL Source: https://www.rdhm.org.au/\n\nPublished Time: 2025-12-15T15:28:15+11:00\n\nMarkdown Content:\n# The Royal Dental Hospital of Melbourne | rdhm.org.au\n\n*   [About us](https://www.rdhm.org.au/about-us)\n\n[![Image 5: Logo Image](https://www.rdhm.org.au/__data/assets/file/0011/247394/rdhm.svg)Logo Link](https://www.rdhm.org.au/)\n*   [Home](https://www.rdhm.org.au/#)\n*   [Patients and carers](https://www.rdhm.org.au/#)\n*   [Health professionals](https://www.rdhm.org.au/#)\n*   [Oral health information](https://www.rdhm.org.au/#)\n*   [Contact us](https://www.rdhm.org.au/#)\n*   [Work with us](https://www.rdhm.org.au/#)\n\n### Dental Emergency\n\n[call (03) **9341 1000**](tel:9341 1000)\n\n## [Home](https://www.rdhm.org.au/home)\n\n## [Patients and carers](https://www.rdhm.org.au/rdhm_patients)\n\n*   ### [Our services](https://www.rdhm.org.au/rdhm_patients/dental)\n\n    *   [Emergency dental care](https://www.rdhm.org.au/rdhm_patients/dental/emergency-dental-care)\n    *   [General dental care](https://www.rdhm.org.au/rdhm_patients/dental/general-dental-care)\n    *   [Telehealth](https://www.rdhm.org.au/rdhm_patients/dental/telehealth)\n    *   [Dental services for Aboriginal and Torres Strait Islander peoples](https://www.rdhm.org.au/rdhm_patients/dental/dental-services-for-aboriginal-and-torres-strait-islander-peoples)\n    *   [Dental care for children and young people](https://www.rdhm.org.au/rdhm_patients/dental/services-for-children-and-teens)\n    *   [Refugees and Asylum seekers](https://www.rdhm.org.au/rdhm_patients/dental/refugees-and-asylum-seekers)\n    *   [Specialist needs service](https://www.rdhm.org.au/rdhm_patients/dental/special-needs-service)\n    *   [Specialist dental care](https://www.rdhm.org.au/rdhm_patients/dental/specialist-services)\n    *   [Dental teaching clinics](https://www.rdhm.org.au/rdhm_patients/dental/dental-teaching-clinics)\n\n*   ### [Patient information](https://www.rdhm.org.au/rdhm_patients/information)\n\n    *   [Preparing for your appointment](https://www.rdhm.org.au/rdhm_patients/information/preparing-for-your-appointment)\n    *   [Are you eligible?](https://www.rdhm.org.au/rdhm_patients/information/are-you-eligible)\n    *   [Fees](https://www.rdhm.org.au/rdhm_patients/information/fees)\n    *   [Child Dental Benefits Scheme](https://www.rdhm.org.au/rdhm_patients/information/cdbs)\n    *   [Commonly asked questions](https://www.rdhm.org.au/rdhm_patients/information/commonly-asked-questions)\n    *   [Patient resources](https://www.rdhm.org.au/rdhm_patients/information/resources)\n    *   [Referral](https://www.rdhm.org.au/rdhm_patients/information/referrals)\n    *   [Waiting lists](https://www.rdhm.org.au/rdhm_patients/information/waiting-lists)\n    *   [Building emergency procedures](https://www.rdhm.org.au/rdhm_patients/information/emergency-procedures)\n    *   [COVID-19 information](https://www.rdhm.org.au/rdhm_patients/information/covid-19-information)\n    *   [Your personal information](https://www.rdhm.org.au/rdhm_patients/information/your-personal-information)\n\n## [Health professionals](https://www.rdhm.org.au/health-professionals)\n\n*   ### [Referrals](https://www.rdhm.org.au/health-professionals/referrals)\n\n    *   [Integrated Special Needs](https://www.rdhm.org.au/health-professionals/referrals/integrated-special-needs)\n    *   [Endodontics](https://www.rdhm.org.au/health-professionals/referrals/endodontics)\n    *   [Oral Maxillofacial Surgery](https://www.rdhm.org.au/health-professionals/referrals/oral-maxillofacial-surgery)\n    *   [Oral Medicine](https://www.rdhm.org.au/health-professionals/referrals/oral-medicine)\n    *   [Orthodontics](https://www.rdhm.org.au/health-professionals/referrals/orthodontics)\n    *   [Paediatric Dentistry](https://www.rdhm.org.au/health-professionals/referrals/paediatric-dentistry)\n    *   [Periodontics](https://www.rdhm.org.au/health-professionals/referrals/periodontics)\n    *   [Prosthodontics](https://www.rdhm.org.au/hea"
+        },
+        "http://nhakhachchinhphu.gov.vn/": {
+            "url": "http://nhakhachchinhphu.gov.vn/",
+            "title": "Government Guest House (Tonkin Palace)",
+            "content_markdown": "Title: Nhà khách Chính phủ\n\nURL Source: http://nhakhachchinhphu.gov.vn/\n\nMarkdown Content:\n# Nhà khách Chính phủ\n\n[![Image 1: logo](https://nhakhachchinhphu.gov.vn/uploads/logo.png)](https://nhakhachchinhphu.gov.vn/)\n\nNhà Khách Chính Phủ - Bộ Ngoại Giao\n\nQuay lại\n\n[![Image 2: Tiếng việt](https://nhakhachchinhphu.gov.vn/themes/template/images/flag-vn.png)](http://nhakhachchinhphu.gov.vn/?lang=vn)[![Image 3: English](https://nhakhachchinhphu.gov.vn/themes/template/images/flag-uk.png)](http://nhakhachchinhphu.gov.vn/?lang=en)\n\n*   [Trang chủ](https://nhakhachchinhphu.gov.vn/)\n*   [GIỚI THIỆU](https://nhakhachchinhphu.gov.vn/gioi-thieu.html)[Lịch sử hình thành Nhà khách Chính phủ](https://nhakhachchinhphu.gov.vn/lich-su-hinh-thanh-nha-khach-chinh-phu.html)[Chức năng, nhiệm vụ của Nhà khách Chính phủ](https://nhakhachchinhphu.gov.vn/chuc-nang--nhiem-vu-cua-nha-khach-chinh-phu.html)[Cơ cấu tổ chức Nhà khách Chính phủ](https://nhakhachchinhphu.gov.vn/co-cau-to-chuc-nha-khach-chinh-phu.html)[Các thành tích](https://nhakhachchinhphu.gov.vn/cac-thanh-tich.html)[Lãnh đạo Nhà khách Chính phủ từ khi thành lập đến nay](https://nhakhachchinhphu.gov.vn/lanh-dao-nha-khach-chinh-phu-tu-khi-thanh-lap-den-nay.html)[Công trình dinh Thống Sứ Bắc Kỳ](https://nhakhachchinhphu.gov.vn/cong-trinh-dinh-thong-su-bac-ky.html) \n*   [CHIÊU ĐÃI CẤP CAO](https://nhakhachchinhphu.gov.vn/category/chieu-dai-cap-cao)\n*   [PHÒNG NGHỈ](https://nhakhachchinhphu.gov.vn/#)[PHÒNG SUITE](https://nhakhachchinhphu.gov.vn/category/pho-ng-suite)[PHÒNG JUNIOR SUITE](https://nhakhachchinhphu.gov.vn/category/pho-ng-junior-suite)[PHÒNG SUPERIOR](https://nhakhachchinhphu.gov.vn/category/phong-superior)[PHÒNG STANDARD](https://nhakhachchinhphu.gov.vn/category/phong-standard)[PHÒNG CORNER](https://nhakhachchinhphu.gov.vn/category/phong-corner) \n*   [TIỆC CƯỚI](https://nhakhachchinhphu.gov.vn/category/tiec-cuoi)\n*   [TCSK](https://nhakhachchinhphu.gov.vn/category/to-chuc-su-kien)\n*   [NHÀ HÀNG](https://nhakhachchinhphu.gov.vn/category/nha-hang-ylang)[Nhà Kính - Số 2 Lê Thạch](https://nhakhachchinhphu.gov.vn/category/nha-hang) \n*   [TIN TỨC](https://nhakhachchinhphu.gov.vn/category/tin-tuc)[CHIÊU ĐÃI CẤP CAO](https://nhakhachchinhphu.gov.vn/category/chieu-dai-cap-cao) \n*   [THƯ VIỆN](https://nhakhachchinhphu.gov.vn/library)\n*   [LIÊN HỆ](https://nhakhachchinhphu.gov.vn/contact.html)\n\n![Image 4](https://nhakhachchinhphu.gov.vn/uploads/Slider/IMG_6290%20copy-compressed-min-compressed%20(1).jpg)\n\n![Image 5](https://nhakhachchinhphu.gov.vn/uploads/Slider/IMG_6297-compressed-min.jpg)\n\n![Image 6](https://nhakhachchinhphu.gov.vn/uploads/Slider/IMG_28571.jpg)\n\n![Image 7](https://nhakhachchinhphu.gov.vn/uploads/Slider/IMG_28612.jpg)\n\n![Image 8](https://nhakhachchinhphu.gov.vn/uploads/Slider/IMG_6532.JPG)\n\n[](http://nhakhachchinhphu.gov.vn/.id-banner)[](http://nhakhachchinhphu.gov.vn/.id-banner)\n\n#### Tổng quan Nhà khách Chính phủ\n\nTọa lạc gần Hồ Hoàn Kiếm, trung tâm của Thủ đô, Nhà khách Chính phủ 12 Ngô Quyền là một trong những di tích lịch sử của Thành phố Hà Nội. Tòa nhà được xây dựng vào năm 1918, trên phần đất của chùa Báo Ân xa xưa, là một công trình tiêu biểu của phong cách kiến trúc cổ điển Pháp, với tổ hợp mặt bằng, mặt đứng rất cân xứng cùng với những chi tiết kiến trúc thuần túy Châu âu. Tòa nhà đã trải qua bề dày lịch sử chống Pháp và chống Mỹ cứu nước của dân tộc và là nơi đặt dấu ấn của Bác Hồ về đây làm việc năm 1945 với tên gọi **Bắc Bộ Phủ**.\n\nNhà khách Chính phủ 12 Ngô Quyền nằm trên hai mặt đường Ngô Quyền và Lê Thạch. Bên mặt đường Ngô Quyền là vườn hoa Diên Hồng (còn gọi là vườn hoa Con Cóc), mặt đường Lê Thạch là vườn hoa Lý Thái Tổ, tạo nên một không gian xanh, thoáng đãng cùng với quần thể bao quanh là những tòa nhà cổ kính rất phù hợp cho việc tổ chức các sự kiện quan trọng. Nhà khách Chính phủ cũng là vị trí trung tâm để di chuyển đến các địa danh nổi tiếng của Thủ đô Hà Nội: Hồ Hoàn Kiếm (khoảng 200m), Bưu điện Bờ hồ (khoảng 200m), Trung tâm phố cổ Hà Nội (khoảng 8"
+        }
+    },
+    "users": {
+        "user_001": {
+            "user_id": "user_001",
+            "name": "Alfred",
+            "phone": "0491 279 536"
+        },
+        "user_002": {
+            "user_id": "user_002",
+            "name": "Ralph",
+            "phone": "0484 568 312"
+        },
+        "user_003": {
+            "user_id": "user_003",
+            "name": "Ned",
+            "phone": "0410 495 398"
+        },
+        "user_004": {
+            "user_id": "user_004",
+            "name": "Lilly",
+            "phone": "0410 357 447"
+        },
+        "user_005": {
+            "user_id": "user_005",
+            "name": "Susanna",
+            "phone": "0415 306 693"
+        },
+        "user_006": {
+            "user_id": "user_006",
+            "name": "Nolie",
+            "phone": "0490 066 294"
+        },
+        "user_007": {
+            "user_id": "user_007",
+            "name": "Clarance",
+            "phone": "0447 427 230"
+        }
+    },
+    "bookings": {},
+    "routes": {
+        "-37.821,144.962|-37.84,144.986|DRIVE": {
+            "route_key": "-37.821,144.962|-37.84,144.986|DRIVE",
+            "distance_meters": 3958,
+            "duration_seconds": 596,
+            "polyline": "t}yeFo~wsZl@u@d@}@dCsC`@u@Qi@a@_B}AyEyBsGq@yB[aBEe@K}C?m@D_AToBn@kElBqMb@aBr@oBhAkB\\c@Va@NO^[n@_@x@aAf@k@bBgBfAaA`HsFhAmApAoBdBsDbAuCl@iC`@{CjAqLNoAJ_@z@_Bx@cApF{Ft@w@hAWj@C^Bj@L~NfB|BRfC`@`Gv@hDb@hBVj@CvB`@~IhAEh@}@K"
+        },
+        "-37.81,144.97|-37.831,144.985|DRIVE": {
+            "route_key": "-37.81,144.97|-37.831,144.985|DRIVE",
+            "distance_meters": 3328,
+            "duration_seconds": 606,
+            "polyline": "tyweFmlysZr`@sNz@a@lAq@vAmAl@y@vAcD~@yBNg@Zq@x@{@nA_Az@a@|@UnAKxA@jCBh@Gd@WzAgAhBoB|BaD`AgATOGz@UhIL^LFN?f@k@bBgBfAaA`HsFhAmApAoBdBsDbAuCl@iC`@{CjAqLNoAJ_@z@_Bx@cAt@y@z@XrEh@[lF"
+        },
+        "-37.824,144.964|-37.792,144.962|DRIVE": {
+            "route_key": "-37.824,144.964|-37.792,144.962|DRIVE",
+            "distance_meters": 11055,
+            "duration_seconds": 890,
+            "polyline": "zozeFsixsZtAdBrBwC|AiBtAgAv@c@hAc@Z`APfAh@nEZlBC\\vC~Nt@vEZtFBdCGvB_@vEwDxXwBpOJZc@vGWzJYtEcAdKQvDOvGE~DCP?pFBbBd@hNNpC`AvM`ApHLRx@pGNp@Xx@Zd@b@\\f@Rj@Br@Ef@Sb@_@^m@Vw@J}@?g@K_ASo@O]QWi@c@u@a@q@O{@ImAHuGr@yBJyBCeCIcDk@kD_AkCo@iIyBoMkDeFwA_Ci@cDo@cCWo@KiBI_FGmC@wBJaTtBuADeBEyBUaCm@cBu@eBcAoA{@iEaDoBeAiDuA}Bi@{BWoCKiFN{ARaGbAcCRiBBwCGgFc@u@Bg@CmAO{EO}D[}Ce@oD}@YM_@]Wc@t@aMd@gKTmDBkDFmDEgFKkDWiDQyAy@uDk@uBwByFSi@]yAOuACq@PiBF_@DI|@yOXgBd@}An@uAv@gAx@s@LUd@_@LMPa@Hq@LcDN}APa@b@a@bB_AJAfA}@l@w@x@yATo@Nq@LwABs@c@E"
+        },
+        "-37.824,144.964|-37.812,144.956|DRIVE": {
+            "route_key": "-37.824,144.964|-37.812,144.956|DRIVE",
+            "distance_meters": 1809,
+            "duration_seconds": 538,
+            "polyline": "zozeFsixsZfBvB_DzEeAlCOn@QvCB`@mKyBaACeEBOJCR?NTn@Hp@?p@GVSNg@TQ@}JlDyBv@eAd@iA^{LhE{K`E"
+        }
+    },
+    "search_along_routes": {
+        "t}yeFo~wsZ_cafe": [
+            "ChIJc8COMfBD1moRt-wjTv4n0Ag",
+            "ChIJpzMMZ7JC1moRw81gAuNuexI",
+            "ChIJry7j_5xC1moRJBVX8VQE7Wc"
+        ],
+        "tyweFmlysZ_cafe": [
+            "ChIJQXsLmTFD1moRy4IlHdYzWKo",
+            "ChIJNbbeGhpD1moRYhlJy2LyBRY",
+            "ChIJp9T0MgBD1moR6GvEO4lX7yQ"
+        ],
+        "zozeFsixsZ_cafe": [
+            "ChIJjQLxXzVd1moRm6Cg5UkgViI",
+            "ChIJs-Q2IlNd1moR4UGlA6wroOE",
+            "ChIJ1TE6FrRC1moRqIlJB1BNElI"
+        ]
+    },
+    "transit_schedules": {
+        "ChIJ0yRyXq1C1moR0kuhihM0Dns": {
+            "2026-03-22": [
+                {
+                    "type": "Train",
+                    "route_number": "Sunbury",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "08:20"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Belgrave",
+                    "destination": "Ringwood Station",
+                    "departure_time": "10:40"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "905",
+                    "destination": "Sunshine Station",
+                    "departure_time": "13:20"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Werribee",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "19:00"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "North Melbourne Station",
+                    "departure_time": "19:45"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Sandringham",
+                    "destination": "Southern Cross Station",
+                    "departure_time": "21:20"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Tram",
+                    "route_number": "72",
+                    "destination": "Clifton Hill",
+                    "departure_time": "06:30"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "70",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "08:15"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "220",
+                    "destination": "Epping Station",
+                    "departure_time": "14:05"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "1",
+                    "destination": "Footscray Station",
+                    "departure_time": "22:40"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "600",
+                    "destination": "Frankston Station",
+                    "departure_time": "22:45"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Train",
+                    "route_number": "Hurstbridge",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "08:50"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "96",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "09:35"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "733",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "19:55"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "402",
+                    "destination": "Box Hill Station",
+                    "departure_time": "20:00"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "546",
+                    "destination": "South Yarra Presbyterian Church",
+                    "departure_time": "20:15"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Craigieburn",
+                    "destination": "Epping Station",
+                    "departure_time": "22:00"
+                }
+            ]
+        },
+        "ChIJ5SvQ-MVC1moRacNaHSOTnKk": {
+            "2026-03-22": [
+                {
+                    "type": "Tram",
+                    "route_number": "86",
+                    "destination": "Huntingdale Station",
+                    "departure_time": "06:40"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Mernda",
+                    "destination": "Melbourne Girls Grammar",
+                    "departure_time": "15:20"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Glen Waverley",
+                    "destination": "Box Hill Station",
+                    "departure_time": "19:45"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Frankston",
+                    "destination": "Flagstaff Station",
+                    "departure_time": "20:00"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Tram",
+                    "route_number": "67",
+                    "destination": "Footscray Station",
+                    "departure_time": "09:30"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Alamein",
+                    "destination": "Southern Cross Station",
+                    "departure_time": "13:00"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "220",
+                    "destination": "Melbourne Central",
+                    "departure_time": "17:35"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "411",
+                    "destination": "Melbourne Girls Grammar",
+                    "departure_time": "19:50"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Train",
+                    "route_number": "Williamstown",
+                    "destination": "Flinders Street Station",
+                    "departure_time": "07:45"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Werribee",
+                    "destination": "Melbourne Girls Grammar",
+                    "departure_time": "08:25"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "Melbourne Girls Grammar",
+                    "departure_time": "12:25"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "19",
+                    "destination": "Box Hill Station",
+                    "departure_time": "19:50"
+                }
+            ]
+        },
+        "ChIJh0lVrq1C1moRAH6d5TRhrLY": {
+            "2026-03-22": [
+                {
+                    "type": "Tram",
+                    "route_number": "1",
+                    "destination": "Flagstaff",
+                    "departure_time": "06:35"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "3/3a",
+                    "destination": "Melbourne Central",
+                    "departure_time": "08:45"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "900",
+                    "destination": "Ascot Vale",
+                    "departure_time": "12:35"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "905",
+                    "destination": "Flagstaff",
+                    "departure_time": "12:40"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Upfield",
+                    "destination": "Parliament Station",
+                    "departure_time": "14:10"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "6",
+                    "destination": "Flagstaff",
+                    "departure_time": "19:10"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Tram",
+                    "route_number": "58",
+                    "destination": "Melbourne Central",
+                    "departure_time": "12:20"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "11",
+                    "destination": "Flagstaff",
+                    "departure_time": "12:50"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "733",
+                    "destination": "Clayton Station",
+                    "departure_time": "18:35"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Bus",
+                    "route_number": "905",
+                    "destination": "Flagstaff",
+                    "departure_time": "09:35"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Frankston",
+                    "destination": "Melbourne Central",
+                    "departure_time": "12:20"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "67",
+                    "destination": "Box Hill Station",
+                    "departure_time": "22:10"
+                }
+            ]
+        },
+        "ChIJT_Q_s0Jd1moRqPHwhYbkgmQ": {
+            "2026-03-22": [
+                {
+                    "type": "Train",
+                    "route_number": "Hurstbridge",
+                    "destination": "Clifton Hill",
+                    "departure_time": "08:45"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "907",
+                    "destination": "Southern Cross Station",
+                    "departure_time": "10:55"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "59",
+                    "destination": "Huntingdale Station",
+                    "departure_time": "12:50"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "600",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "21:10"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Craigieburn",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "21:20"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Train",
+                    "route_number": "Lilydale",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "09:10"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "605",
+                    "destination": "Clifton Hill",
+                    "departure_time": "09:40"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "6",
+                    "destination": "Ascot Vale",
+                    "departure_time": "12:05"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "900",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "14:10"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "12",
+                    "destination": "Box Hill Station",
+                    "departure_time": "14:45"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Tram",
+                    "route_number": "19",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "06:00"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "57",
+                    "destination": "Frankston Station",
+                    "departure_time": "09:35"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "5",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "14:20"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Lilydale",
+                    "destination": "Epping Station",
+                    "departure_time": "19:45"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "5",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "20:20"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "6",
+                    "destination": "Saint Mary’s Anglican Catholic Church",
+                    "departure_time": "21:10"
+                }
+            ]
+        },
+        "ChIJ0fpagsClNTERmqYwEXHTqls": {
+            "2026-03-22": [
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "06:40"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "70",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "06:50"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Alamein",
+                    "destination": "Sunshine Station",
+                    "departure_time": "10:55"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "58",
+                    "destination": "Dandenong Station",
+                    "departure_time": "14:50"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Williamstown",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "16:50"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Sandringham",
+                    "destination": "North Melbourne Station",
+                    "departure_time": "18:05"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Train",
+                    "route_number": "Sandringham",
+                    "destination": "Frankston Station",
+                    "departure_time": "10:15"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "903",
+                    "destination": "Box Hill Station",
+                    "departure_time": "10:45"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "402",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "13:30"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Lilydale",
+                    "destination": "Epping Station",
+                    "departure_time": "18:20"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Belgrave",
+                    "destination": "Ringwood Station",
+                    "departure_time": "20:25"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "96",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "22:50"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Train",
+                    "route_number": "Mernda",
+                    "destination": "Dandenong Station",
+                    "departure_time": "11:20"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "Southern Cross Station",
+                    "departure_time": "12:00"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "546",
+                    "destination": "Frankston Station",
+                    "departure_time": "13:35"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Glen Waverley",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "14:20"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "Australian Broadcasting Corporation",
+                    "departure_time": "17:30"
+                }
+            ]
+        },
+        "ChIJ8xA6hdNC1moRiYUJvAuyh7Y": {
+            "2026-03-22": [
+                {
+                    "type": "Train",
+                    "route_number": "Glen Waverley",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "11:35"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "402",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "12:55"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "546",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "18:40"
+                }
+            ],
+            "2026-03-23": [
+                {
+                    "type": "Train",
+                    "route_number": "Alamein",
+                    "destination": "Ascot Vale",
+                    "departure_time": "07:20"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "58",
+                    "destination": "Parliament Station",
+                    "departure_time": "11:55"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Craigieburn",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "16:10"
+                },
+                {
+                    "type": "Tram",
+                    "route_number": "96",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "18:20"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "402",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "18:50"
+                }
+            ],
+            "2026-03-24": [
+                {
+                    "type": "Bus",
+                    "route_number": "220",
+                    "destination": "Flinders Street Station",
+                    "departure_time": "07:35"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "402",
+                    "destination": "Government Guest House (Tonkin Palace)",
+                    "departure_time": "08:40"
+                },
+                {
+                    "type": "Bus",
+                    "route_number": "703",
+                    "destination": "North Melbourne Station",
+                    "departure_time": "12:15"
+                },
+                {
+                    "type": "Train",
+                    "route_number": "Alamein",
+                    "destination": "Clifton Hill",
+                    "departure_time": "21:20"
+                }
+            ]
+        }
+    },
+    "events": {
+        "ChIJveP9iiBo1moRTxhTiWaGy0I": [
+            {
+                "event_name": "Rooftop Cinema Screening",
+                "category": "Entertainment",
+                "date": "2026-03-22",
+                "time": "12:00",
+                "ticket_price": 20,
+                "description": "Open-air movie night with skyline views near South Yarra Presbyterian Church."
+            },
+            {
+                "event_name": "Sustainability & Green Living Expo",
+                "category": "Environment",
+                "date": "2026-03-23",
+                "time": "12:00",
+                "ticket_price": 0,
+                "description": "Showcasing eco-friendly products and urban sustainability initiatives."
+            },
+            {
+                "event_name": "Heritage Walking Tour",
+                "category": "Culture",
+                "date": "2026-03-24",
+                "time": "09:00",
+                "ticket_price": 10,
+                "description": "Guided tour of Melbourne's historic architecture starting from South Yarra Presbyterian Church."
+            },
+            {
+                "event_name": "Urban Tech Meetup",
+                "category": "Networking",
+                "date": "2026-03-27",
+                "time": "20:00",
+                "ticket_price": 0.0,
+                "description": "Networking event for tech professionals hosted at South Yarra Presbyterian Church."
+            }
+        ],
+        "ChIJH4H-YZhC1moReYT-UlrpsOQ": [
+            {
+                "event_name": "Heritage Walking Tour",
+                "category": "Culture",
+                "date": "2026-03-27",
+                "time": "16:00",
+                "ticket_price": 5,
+                "description": "Guided tour of Melbourne's historic architecture starting from Melbourne Girls Grammar."
+            },
+            {
+                "event_name": "AI & Smart City Workshop",
+                "category": "Education",
+                "date": "2026-03-28",
+                "time": "10:00",
+                "ticket_price": 55,
+                "description": "Hands-on workshop covering AI applications in urban planning."
+            }
+        ],
+        "ChIJKc7PbCxD1moR4FMwBXZWBA8": [
+            {
+                "event_name": "Photography Pop-Up Exhibition",
+                "category": "Arts",
+                "date": "2026-03-23",
+                "time": "16:00",
+                "ticket_price": 10,
+                "description": "Local photographers display their work in and around Melbourne General Cemetery."
+            },
+            {
+                "event_name": "AI & Smart City Workshop",
+                "category": "Education",
+                "date": "2026-03-26",
+                "time": "09:00",
+                "ticket_price": 50,
+                "description": "Hands-on workshop covering AI applications in urban planning."
+            }
+        ],
+        "ChIJfV4IPhF-bIcRi-EeF3_nGlg": [
+            {
+                "event_name": "Sustainability & Green Living Expo",
+                "category": "Environment",
+                "date": "2026-03-22",
+                "time": "10:00",
+                "ticket_price": 15,
+                "description": "Showcasing eco-friendly products and urban sustainability initiatives."
+            },
+            {
+                "event_name": "Sunday Farmers Market",
+                "category": "Market",
+                "date": "2026-03-23",
+                "time": "13:00",
+                "ticket_price": 0.0,
+                "description": "Local produce and artisan goods market at Saint Mary’s Anglican Catholic Church."
+            }
+        ],
+        "ChIJyebxiCauEmsR8UgJKyW1xGE": [
+            {
+                "event_name": "Community Sports Day",
+                "category": "Sports",
+                "date": "2026-03-26",
+                "time": "19:00",
+                "ticket_price": 5,
+                "description": "Free community sports activities and games at Australian Broadcasting Corporation."
+            },
+            {
+                "event_name": "Live Jazz Night",
+                "category": "Music",
+                "date": "2026-03-27",
+                "time": "14:00",
+                "ticket_price": 15,
+                "description": "An intimate evening of live jazz performances at Australian Broadcasting Corporation."
+            }
+        ],
+        "ChIJ8TlgJUpd1moRYOb0CXZWBB0": [
+            {
+                "event_name": "Photography Pop-Up Exhibition",
+                "category": "Arts",
+                "date": "2026-03-22",
+                "time": "10:00",
+                "ticket_price": 5,
+                "description": "Local photographers display their work in and around Flagstaff."
+            },
+            {
+                "event_name": "Sunday Farmers Market",
+                "category": "Market",
+                "date": "2026-03-27",
+                "time": "11:00",
+                "ticket_price": 0.0,
+                "description": "Local produce and artisan goods market at Flagstaff."
+            },
+            {
+                "event_name": "Heritage Walking Tour",
+                "category": "Culture",
+                "date": "2026-03-28",
+                "time": "17:30",
+                "ticket_price": 10,
+                "description": "Guided tour of Melbourne's historic architecture starting from Flagstaff."
+            }
+        ],
+        "ChIJseLBBeurNTERUHBT0wbEc9U": [
+            {
+                "event_name": "Rooftop Cinema Screening",
+                "category": "Entertainment",
+                "date": "2026-03-23",
+                "time": "18:00",
+                "ticket_price": 25,
+                "description": "Open-air movie night with skyline views near Government Guest House (Tonkin Palace)."
+            },
+            {
+                "event_name": "Community Sports Day",
+                "category": "Sports",
+                "date": "2026-03-24",
+                "time": "18:00",
+                "ticket_price": 10,
+                "description": "Free community sports activities and games at Government Guest House (Tonkin Palace)."
+            },
+            {
+                "event_name": "AI & Smart City Workshop",
+                "category": "Education",
+                "date": "2026-03-25",
+                "time": "09:00",
+                "ticket_price": 50,
+                "description": "Hands-on workshop covering AI applications in urban planning."
+            },
+            {
+                "event_name": "Heritage Walking Tour",
+                "category": "Culture",
+                "date": "2026-03-26",
+                "time": "14:00",
+                "ticket_price": 10,
+                "description": "Guided tour of Melbourne's historic architecture starting from Government Guest House (Tonkin Palace)."
+            }
+        ]
+    },
+    "council_reports": {}
+}

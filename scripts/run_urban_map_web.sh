@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the user model (usually kept constant for consistency)
-USER_LLM="openrouter/openai/gpt-4.1-mini"
+USER_LLM="openrouter/openai/gpt-5.4"
 
 # List of agent models to evaluate
 AGENT_MODELS=(
@@ -22,7 +22,7 @@ AGENT_MODELS=(
 
 # Configuration
 NUM_TRIALS=1
-NUM_TASKS=100
+NUM_TASKS=-1
 DOMAIN="urban_map_web"
 
 # Loop through each agent model

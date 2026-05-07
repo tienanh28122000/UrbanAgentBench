@@ -1,0 +1,9 @@
+Category,Task,Core Objective
+Spatial Grounding,Place Discovery & Web Fact Verification,"Resolving free-text location descriptions into precise entities to verify factual metadata, accessibility options, or extract specific information from their official websites."
+Spatial Grounding,Contextual Spatial Filtering,"Discovering and filtering nearby urban facilities based on a combination of strict spatial proximity, qualitative ratings, and specific amenity requirements."
+Spatio-Temporal Reasoning,En-Route Logistics Optimization,"Identifying specific services, stops, or amenities that fall directly along a planned driving route to optimize logistics and minimize travel detours."
+Spatio-Temporal Reasoning,Transit Planning,"Planning spatial paths and evaluating public transit schedules to seamlessly coordinate travel logistics between multiple urban landmarks."
+Spatio-Temporal Reasoning,Temporal Event Coordination,"Cross-referencing spatial locations with temporal constraints, specifically by aligning public transit arrival times with scheduled venue event calendars."
+Transactional Execution,Civic Issue Reporting,"Identifying exact urban coordinates based on landmarks to formally report infrastructure issues, hazards, or maintenance requests to local city council portals."
+Transactional Execution,Unstructured Web Evaluation & Reservation,"Evaluating unstructured web content like menus or policies to make informed choices, followed by checking capacity and securing a formal reservation."
+Transactional Execution,Multi-Constraint Itinerary Synthesis,"Synthesizing a complete urban itinerary by balancing spatial routing constraints, verifying unstructured web data, and executing real-time bookings."

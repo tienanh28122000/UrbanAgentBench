@@ -1,8 +1,8 @@
 #!/bin/bash
-AGENT_LLM="openrouter/z-ai/glm-4.5v" # gpt-4.1-mini, gpt-5-mini, gpt-4.1-nano, gpt-5-nano
-USER_LLM="openrouter/openai/gpt-4.1-mini"
+AGENT_LLM="openrouter/openai/gpt-5.4"
+USER_LLM="openrouter/openai/gpt-5.4"
 NUM_TRIALS=1
-NUM_TASKS=100
+NUM_TASKS=-1
 
 uab run --domain urban_satellite \
     --agent-llm $AGENT_LLM \

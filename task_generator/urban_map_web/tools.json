@@ -1,0 +1,141 @@
+[
+  {
+    "name": "text_search",
+    "type": "Map",
+    "arguments": {
+      "query": "str"
+    },
+    "output_format": "List[Dict]",
+    "behavior": "[READ] Resolves free-text names (e.g., 'Monash University') into structured IDs and coordinates using the offline database.",
+    "method": "Real (Google Places API)"
+  },
+  {
+    "name": "place_details",
+    "type": "Map",
+    "arguments": {
+      "place_id": "str"
+    },
+    "output_format": "Dict",
+    "behavior": "[READ] Fetches granular metadata (hours, accessibility, amenities, reviews) for a specific location to support policy-based logic.",
+    "method": "Real (Google Places API)"
+  },
+  {
+    "name": "nearby_search",
+    "type": "Map",
+    "arguments": {
+      "lat": "float",
+      "lng": "float",
+      "radius": "int",
+      "place_type": "str",
+      "min_rating": "float"
+    },
+    "output_format": "List[Dict]",
+    "behavior": "[READ] Discovers points of interest within a spatial radius from a center point using offline distance calculations.",
+    "method": "Real Data + Simulated Math (Haversine)"
+  },
+  {
+    "name": "compute_routes",
+    "type": "Map",
+    "arguments": {
+      "origin_lat": "float",
+      "origin_lng": "float",
+      "dest_lat": "float",
+      "dest_lng": "float",
+      "travel_mode": "str"
+    },
+    "output_format": "Dict",
+    "behavior": "[READ] Retrieves actual paths (polylines) and transit metrics by looking up pre-cached routes in the benchmark database.",
+    "method": "Real (Google Routes API)"
+  },
+  {
+    "name": "search_along_route",
+    "type": "Map",
+    "arguments": {
+      "polyline": "str",
+      "place_type": "str"
+    },
+    "output_format": "List[Dict]",
+    "behavior": "[READ] Identifies services or brands that fall within a defined travel path to minimize detour time based on a specific polyline.",
+    "method": "Real (Google Places API)"
+  },
+  {
+    "name": "read_place_website",
+    "type": "Web",
+    "arguments": {
+      "place_id": "str"
+    },
+    "output_format": "str (Markdown)",
+    "behavior": "[READ] Extracts Markdown content (Menus, FAQs) from a place's official website via the cached database to avoid hallucinated URLs.",
+    "method": "Real (Jina Reader API)"
+  },
+  {
+    "name": "check_availability",
+    "type": "Web",
+    "arguments": {
+      "place_id": "str",
+      "datetime_str": "str",
+      "party_size": "int"
+    },
+    "output_format": "Dict",
+    "behavior": "[READ] Checks the simulated environment state to determine if a location has enough capacity for a specific date and time.",
+    "method": "Simulated (Mock DB State)"
+  },
+  {
+    "name": "book_place",
+    "type": "Web",
+    "arguments": {
+      "place_id": "str",
+      "user_id": "str",
+      "datetime_str": "str",
+      "party_size": "int"
+    },
+    "output_format": "Booking Obj",
+    "behavior": "[WRITE] Mutates the environment state by confirming a reservation and deducting available slots from the database.",
+    "method": "Simulated (State Mutation)"
+  },
+  {
+    "name": "get_transit_schedule",
+    "type": "Web",
+    "arguments": {
+      "place_id": "str",
+      "date_str": "str"
+    },
+    "output_format": "List[Dict]",
+    "behavior": "[READ] Retrieves the departure schedule (route numbers, destinations, times) for a specific public transit stop from the city's transport database.",
+    "method": "Simulated (Dynamic Mock Data)"
+  },
+  {
+    "name": "search_venue_events",
+    "type": "Web",
+    "arguments": {
+      "place_id": "str",
+      "date_str": "str"
+    },
+    "output_format": "List[Dict]",
+    "behavior": "[READ] Searches a venue's official website calendar for events, exhibitions, or shows happening on a specific date.",
+    "method": "Simulated (Dynamic Mock Data)"
+  },
+  {
+    "name": "submit_council_report",
+    "type": "Web",
+    "arguments": {
+      "issue_type": "str",
+      "place_id": "str",
+      "description": "str",
+      "user_id": "str"
+    },
+    "output_format": "Dict",
+    "behavior": "[WRITE] Submits a maintenance report (e.g., pothole, lighting) to the local City Council web portal. Automatically extracts exact coordinates from the place_id.",
+    "method": "Simulated (State Mutation)"
+  },
+  {
+    "name": "transfer_to_human_agents",
+    "type": "NaN",
+    "arguments": {
+      "summary": "str"
+    },
+    "output_format": "str",
+    "behavior": "[WRITE] Transfer the user to a human agent, with a summary of the user's issue.",
+    "method": "NaN"
+  }
+]

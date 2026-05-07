@@ -1,75 +1,73 @@
 # UrbanAgentBench
 
-UrbanAgentBench is a benchmark for evaluating AI agents on urban understanding and decision-making tasks. It provides two domains that test an agent's ability to reason about real-world urban environments through satellite imagery and web-based map services.
+UrbanAgentBench is a benchmark for evaluating AI agents on urban reasoning and decision-making tasks.
 
-## Domains
+It includes two domains:
+- `urban_map_web`: map, place, route, and booking workflows
+- `urban_satellite`: satellite-image reasoning and assessment
 
-### Urban-Satellite
-Evaluates agents on satellite imagery analysis tasks for urban infrastructure assessment. The agent must use vision-language capabilities to:
-- Analyze current and historical satellite images of urban sites
-- Detect infrastructure changes over time (construction, demolition, land use shifts)
-- Classify land use types and count objects in aerial views
-- Answer questions about site conditions based on visual evidence
+## Requirements
 
-### Urban-Map-Web
-Evaluates agents on web-based map and local services tasks. The agent must:
-- Search for places, points of interest, and routes in urban environments
-- Retrieve detailed information about venues (hours, ratings, reviews)
-- Manage bookings and reservations for restaurants and services
-- Plan multi-stop itineraries and navigate between locations
+- Python 3.10+
+- API key(s) for the LLM providers you use
 
 ## Installation
-
-**Requirements**: Python 3.10+
 
 ```bash
 git clone <repo-url>
 cd UrbanAgentBench
 pip install -e .
-```
-
-Copy the environment template and add your API keys:
-
-```bash
 cp .env.example .env
-# Edit .env and fill in OPENAI_API_KEY, OPENROUTER_API_KEY, etc.
+# Edit .env and set OPENAI_API_KEY / OPENROUTER_API_KEY / ...
 ```
 
-## Quick Start
+## Run Benchmarks
 
-Run the Urban-Satellite benchmark:
+Use helper scripts:
 
 ```bash
 bash scripts/run_urban_satellite.sh
-```
-
-Run the Urban-Map-Web benchmark:
-
-```bash
 bash scripts/run_urban_map_web.sh
 ```
 
-Or run directly via CLI:
+Or run from CLI:
 
 ```bash
-uab run --domain urban_satellite --agent-llm openrouter/openai/gpt-4.1-mini --user-llm openrouter/openai/gpt-4.1-mini --num-tasks 10
-uab run --domain urban_map_web --agent-llm openrouter/openai/gpt-4.1-mini --user-llm openrouter/openai/gpt-4.1-mini --num-tasks 10
+uab run --domain urban_satellite --agent-llm openrouter/openai/gpt-5.4 --user-llm openrouter/openai/gpt-5.4 --num-tasks 10
+uab run --domain urban_map_web --agent-llm openrouter/openai/gpt-5.4 --user-llm openrouter/openai/gpt-5.4 --num-tasks 10
 ```
 
-## CLI Reference
+## Run Visualization (One Command)
 
-```
-uab run --help
+```bash
+bash scripts/run_visualization.sh
 ```
 
-Key options:
-- `--domain`: `urban_satellite` or `urban_map_web`
-- `--agent-llm`: Model for the agent (e.g., `openrouter/openai/gpt-4.1-mini`)
-- `--user-llm`: Model for the user simulator
-- `--num-tasks`: Number of tasks to evaluate
-- `--num-trials`: Number of trials per task
-- `--agent-llm-args`: JSON string of extra args (e.g., `'{"max_tokens": 2048}'`)
-- `--save-to`: Output file name (saved under `data/simulations/`)
+Default URLs:
+- Landing: `http://127.0.0.1:8000/visualization/index.html`
+- Urban-Map-Web: `http://127.0.0.1:8000/visualization/urban-map-web.html`
+- Urban-Satellite: `http://127.0.0.1:8000/visualization/urban-satellite.html`
+
+Custom port:
+
+```bash
+bash scripts/run_visualization.sh 8088
+```
+
+## Update Leaderboard Data
+
+From `UrbanAgentBench/visualization`:
+
+```bash
+python3 metrics/calculate_leaderboard.py --action_threshold 0 --nl_threshold 0
+```
+
+Notes:
+- If `--domain/--domains` is omitted, both domains are processed.
+- Accepted forms include:
+    - `--domain urban_map_web urban_satellite`
+    - `--domains urban_map_web,urban_satellite`
+    - `--domains [urban_map_web,urban_satellite]`
 
 ## Environment Variables
 
@@ -77,25 +75,25 @@ Key options:
 |---|---|
 | `OPENAI_API_KEY` | OpenAI API key |
 | `OPENROUTER_API_KEY` | OpenRouter API key |
-| `UAB_DATA_DIR` | (Optional) custom path to data directory |
+| `UAB_DATA_DIR` | Optional custom path to benchmark data |
 
 ## Repository Structure
 
-```
+```text
 UrbanAgentBench/
-├── src/urban_agent_bench/   # Core Python package
-│   ├── domains/
-│   │   ├── urban_satellite/ # Satellite imagery domain
-│   │   └── urban_map_web/   # Map/web services domain
-│   ├── agent/               # LLM agent implementations
-│   ├── user/                # User simulator
-│   ├── evaluator/           # Evaluation framework
-│   └── ...
-├── data/
-│   └── domains/
-│       ├── urban_satellite/ # Benchmark data, tasks, satellite images
-│       └── urban_map_web/   # Benchmark data, tasks, place database
-└── scripts/
-    ├── run_urban_satellite.sh
-    └── run_urban_map_web.sh
+├── src/urban_agent_bench/         # Core benchmark package
+├── data/domains/
+│   ├── urban_satellite/           # Tasks, policies, satellite images
+│   └── urban_map_web/             # Tasks and place database
+├── task_generator/                # Crawl/build static DB and task resources for domains
+├── visualization/                 # Static UI for trajectories + leaderboard
+├── scripts/
+│   ├── run_urban_satellite.sh
+│   ├── run_urban_map_web.sh
+│   └── run_visualization.sh
+└── README.md
 ```
+
+## Additional Docs
+
+- Visualization-specific docs are kept in `visualization/README.md`.
