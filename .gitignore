@@ -204,3 +204,4 @@ src/experiments/model_training/data/test_full-v1.jsonl
 # preprocessing files
 scripts/urban_map_web
 scripts/urban_satellite
+croissant/

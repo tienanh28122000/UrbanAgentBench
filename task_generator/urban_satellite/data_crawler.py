@@ -12,7 +12,7 @@ import requests
 CSV_PATH = "resources/London_img_indicators.csv"
 EXISTING_OBJ_JSON = "resources/all_city_img_object_set.json"
 OUTPUT_DB_PATH = "urban_satellite_db_London.json"
-IMAGE_DIR = "resources/London"
+IMAGE_DIR = "satellite_imgs" # Create a symlink from domains/urban_satellite/data/satellite_imgs to this path.
 USE_ALL_CSV_FOR_DENSITY = True
 
 # OSM crawling params
@@ -21,7 +21,7 @@ OSM_MAX_RETRIES = 4
 
 # Override mode: skip OSM land_use query if True (useful for updating density/infra without re-crawling)
 OVERRIDE_LAND_USE = True
-OVERRIDE_LAND_USE_SOURCE = "urban_satellite_db_London.json"  # Load existing land_use from this file
+OVERRIDE_LAND_USE_SOURCE = "data/urban_satellite_db_London.json"  # Load existing land_use from this file
 
 # Override infra counts: when True, IGNORE existing_objs and crawl OSM directly for each site
 # Use this when all_city_img_object_set.json has incorrect detections

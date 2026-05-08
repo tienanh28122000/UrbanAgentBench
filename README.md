@@ -37,22 +37,7 @@ uab run --domain urban_satellite --agent-llm openrouter/openai/gpt-5.4 --user-ll
 uab run --domain urban_map_web --agent-llm openrouter/openai/gpt-5.4 --user-llm openrouter/openai/gpt-5.4 --num-tasks 10
 ```
 
-## Run Visualization (One Command)
-
-```bash
-bash scripts/run_visualization.sh
-```
-
-Default URLs:
-- Landing: `http://127.0.0.1:8000/visualization/index.html`
-- Urban-Map-Web: `http://127.0.0.1:8000/visualization/urban-map-web.html`
-- Urban-Satellite: `http://127.0.0.1:8000/visualization/urban-satellite.html`
-
-Custom port:
-
-```bash
-bash scripts/run_visualization.sh 8088
-```
+After running, copy the output JSON files from `data/simulation/` to `visualization/data/`, then running the `calculate_leaderboard.py` from the `visualization` directory to update the visualization data. The final result will be recorded in `visualization/data/leaderboard.json`. The tutorial for updating the visualization data is in the "Update Leaderboard Data" section below.
 
 ## Update Leaderboard Data
 
@@ -68,6 +53,23 @@ Notes:
     - `--domain urban_map_web urban_satellite`
     - `--domains urban_map_web,urban_satellite`
     - `--domains [urban_map_web,urban_satellite]`
+
+## Run Visualization
+
+```bash
+bash scripts/run_visualization.sh
+```
+
+Default URLs:
+- Landing: `http://127.0.0.1:8000/visualization/index.html`
+- Urban-Map-Web: `http://127.0.0.1:8000/visualization/urban-map-web.html`
+- Urban-Satellite: `http://127.0.0.1:8000/visualization/urban-satellite.html`
+
+Custom port:
+
+```bash
+bash scripts/run_visualization.sh 8088
+```
 
 ## Environment Variables
 

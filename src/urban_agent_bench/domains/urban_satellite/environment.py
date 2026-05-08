@@ -2,16 +2,16 @@
 from pathlib import Path
 from typing import Optional
 
-from urban_agent_bench.data_model.tasks import Task
-from urban_agent_bench.domains.urban_satellite.data_model import UrbanSatelliteDB
-from urban_agent_bench.domains.urban_satellite.tools import UrbanSatelliteTools
-from urban_agent_bench.domains.urban_satellite.utils import (
+from tau2.data_model.tasks import Task
+from tau2.domains.urban_satellite.data_model import UrbanSatelliteDB
+from tau2.domains.urban_satellite.tools import UrbanSatelliteTools
+from tau2.domains.urban_satellite.utils import (
     URBAN_SATELLITE_DB_PATH,
     URBAN_SATELLITE_POLICY_PATH,
     URBAN_SATELLITE_TASK_SET_PATH,
 )
-from urban_agent_bench.environment.environment import Environment
-from urban_agent_bench.utils import load_file
+from tau2.environment.environment import Environment
+from tau2.utils import load_file
 
 def get_environment(
     db: Optional[UrbanSatelliteDB] = None,
