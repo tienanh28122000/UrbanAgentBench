@@ -21,6 +21,8 @@ cp .env.example .env
 # Edit .env and set OPENAI_API_KEY / OPENROUTER_API_KEY / ...
 ```
 
+- Extract satellite images for `urban_satellite` domain from data/domains/urban_satellite/satellite_imgs.tar.gz
+
 ## Run Benchmarks
 
 Use helper scripts:
